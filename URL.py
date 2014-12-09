@@ -5,6 +5,10 @@ import tldextract
 
 pp = pprint.PrettyPrinter(indent = 4)
 spamUrlSet = set([])
+from safebrowsinglookup import SafebrowsinglookupClient
+#lol plain text API key
+# client = SafebrowsinglookupClient('ABQIAAAACwkq5pvuWZ3fWsO072_EyRSv8I3jTLfAjRBzDFENLuchTwK1Zw')
+# print client.lookup(*['google.com'])
 
 def PopulateSpamUrlSet():
     with open('dom-bl-base.txt') as f:

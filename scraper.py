@@ -1,6 +1,7 @@
 import twitter, TwitterAPI
 import pprint, json, pickle
-import os, glob, URL, urllib2
+import os, glob, urllib2
+import URL
 pp = pprint.PrettyPrinter(indent=4)
 twapi = TwitterAPI.TwitterAPI("QBSHTvUFpOOfK6rO24EpVtobp", 
 	"PEMxGvDQWp2O0FAzWFOk0lJP86D7jYzrSjpVDBkMPs6VG3B94g",
@@ -21,12 +22,19 @@ os.chdir('Data')
 # 		pickle.dump(info_to_pickle, f)
 # 	except:
 		# print "ERROR"
+
+f = open('../sites.txt', 'a')
+count = 0
 while(True):
+	count += 1
 	try:
-		r = twapi.request('search/tweets', {'q':'.ru'})
+		if count % 2 == 0:
+			r = twapi.request('search/tweets', {'q':'.com'})
+		else:
+			r = twapi.request('search/tweets', {'q':'.ru'})
 	except:
 		print "Request failed"
-	print "Processing " + str(len([q for q in r])) + " tweets."
+	# print "Processing " + str(len([q for q in r])) + " tweets."
 	# scraped += len([x for x in r])
 	for item in r:
 			# pp.pprint(item)
@@ -35,9 +43,11 @@ while(True):
 			screen_name = item['user']['screen_name']
 			for u in urls:
 				try:
-					end = urllib2.urlopen(u)
-					# print str(u) + " went to " + str(end.url)
-					print "Spam: " + str(URL.IsSpam(end.url))
+					end = urllib2.urlopen(u, timeout=.5)
+					f.write(str(end.url) + "," + str(screen_name)+"\n")
+					f.flush()
+					print str(u) + " went to " + str(end.url)
+					# print "Spam: " + str(URL.IsSpam(end.url))
 				except:
 					print "Forbidden"
 			# try:
