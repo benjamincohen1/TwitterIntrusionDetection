@@ -5,7 +5,6 @@ import tldextract
 
 pp = pprint.PrettyPrinter(indent = 4)
 spamUrlSet = set([])
-PopulateSpamUrlSet()
 
 def PopulateSpamUrlSet():
     with open('dom-bl-base.txt') as f:
@@ -18,6 +17,10 @@ def PopulateSpamUrlSet():
 
             """if contains ';' character, remove it and 
             everything after """
+    # with open('spam.csv') as f:
+    #     for line in f:
+    #         line = line.split(',')
+    #         print line[1]
     print "loaded spam urls"
 
 """
@@ -79,7 +82,7 @@ Returns
 def IsSpam(url):
     ext = tldextract.extract(url)
     domain = ext.domain + '.' + ext.suffix
-
+    print domain
     isSpam = False
     if domain in spamUrlSet:
         return True
@@ -89,6 +92,7 @@ def IsSpam(url):
         #if either of those return true add it to the spam set
 
         return False
+PopulateSpamUrlSet()
 
 
 # if __name__ == "__main__":
