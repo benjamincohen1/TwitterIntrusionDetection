@@ -86,7 +86,7 @@ Returns
 def IsSpam(url):
     ext = tldextract.extract(url)
     domain = ext.domain + '.' + ext.suffix
-    print domain
+    # print domain
     isSpam = False
     if domain in spamUrlSet:
         return True
