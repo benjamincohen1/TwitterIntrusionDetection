@@ -1,0 +1,926 @@
+Downloading/unpacking python-twitter
+  Getting page https://pypi.python.org/simple/python-twitter/
+  URLs to search for versions for python-twitter:
+  * https://pypi.python.org/simple/python-twitter/
+  Analyzing links from page https://pypi.python.org/simple/python-twitter/
+    Skipping link https://pypi.python.org/packages/2.4/p/python-twitter/python_twitter-0.4-py2.4.egg#md5=07b4cd8a9d42d410ebae2f95f61b9268 (from https://pypi.python.org/simple/python-twitter/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/p/python-twitter/python_twitter-0.4.1-py2.4.egg#md5=f2dcc3ab8729236200258616a7b31a30 (from https://pypi.python.org/simple/python-twitter/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/p/python-twitter/python_twitter-0.5-py2.4.egg#md5=f264d2c65c1d68f42db45a6c418b68f3 (from https://pypi.python.org/simple/python-twitter/); unknown archive format: .egg
+    Found link https://pypi.python.org/packages/2.7/p/python-twitter/python_twitter-2.0-py2-none-any.whl#md5=df7e46f52d0f4cec1f3962ce4003c951 (from https://pypi.python.org/simple/python-twitter/), version: 2.0
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-0.4.1.tar.gz#md5=843e7399f0f9a10f217c79ab64555821 (from https://pypi.python.org/simple/python-twitter/), version: 0.4.1
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-0.4.tar.gz#md5=d2cb8fa12a6053cdb8dc98ac26473e75 (from https://pypi.python.org/simple/python-twitter/), version: 0.4
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-0.5.tar.gz#md5=d4fe92ca630a7339a064cef8e91af2b9 (from https://pypi.python.org/simple/python-twitter/), version: 0.5
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-0.8.2.tar.gz#md5=a5d79ba7228ff00bc83a8486e7434106 (from https://pypi.python.org/simple/python-twitter/), version: 0.8.2
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-0.8.5.tar.gz#md5=989c17fde3e7f94c20b927737be3ca76 (from https://pypi.python.org/simple/python-twitter/), version: 0.8.5
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-0.8.6.tar.gz#md5=2112941f18c23cb020f1ab579cb19f3b (from https://pypi.python.org/simple/python-twitter/), version: 0.8.6
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-0.8.7.tar.gz#md5=19830d14bd4532992b646d384c795198 (from https://pypi.python.org/simple/python-twitter/), version: 0.8.7
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-1.0.tar.gz#md5=16abdc5ba30e43241981d3dd7eeef767 (from https://pypi.python.org/simple/python-twitter/), version: 1.0
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-1.1.tar.gz#md5=3d03ca0301d17e41ae2abe69b504c894 (from https://pypi.python.org/simple/python-twitter/), version: 1.1
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-1.3.1.tar.gz#md5=84a1076388187196b4d83a6a658d722a (from https://pypi.python.org/simple/python-twitter/), version: 1.3.1
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-1.3.tar.gz#md5=e4864fa0d1da48b2a13813eb82eea294 (from https://pypi.python.org/simple/python-twitter/), version: 1.3
+    Found link https://pypi.python.org/packages/source/p/python-twitter/python-twitter-2.0.tar.gz#md5=a232cac55f121509da7fc2db15ef9614 (from https://pypi.python.org/simple/python-twitter/), version: 2.0
+  Using version 2.0 (newest of versions: 2.0, 2.0, 1.3.1, 1.3, 1.1, 1.0, 0.8.7, 0.8.6, 0.8.5, 0.8.2, 0.5, 0.4.1, 0.4)
+  Downloading from URL https://pypi.python.org/packages/2.7/p/python-twitter/python_twitter-2.0-py2-none-any.whl#md5=df7e46f52d0f4cec1f3962ce4003c951 (from https://pypi.python.org/simple/python-twitter/)
+Downloading/unpacking requests-oauthlib (from python-twitter)
+  Getting page https://pypi.python.org/simple/requests-oauthlib/
+  URLs to search for versions for requests-oauthlib (from python-twitter):
+  * https://pypi.python.org/simple/requests-oauthlib/
+  Analyzing links from page https://pypi.python.org/simple/requests-oauthlib/
+    Found link https://pypi.python.org/packages/2.7/r/requests-oauthlib/requests_oauthlib-0.4.1-py2.py3-none-any.whl#md5=86d3d4d47d67cc9c9ad12bee2e2c3a39 (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.4.1
+    Found link https://pypi.python.org/packages/2.7/r/requests-oauthlib/requests_oauthlib-0.4.2-py2.py3-none-any.whl#md5=0e51c9ce10f5eb53456911d4951f226e (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.4.2
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.2.0.tar.gz#md5=ef04f3229ae62c61f5702cdfc0cb39d6 (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.2.0
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.3.0.tar.gz#md5=7fb00175766308ed5cf40185304eb0c6 (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.3.0
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.3.1.tar.gz#md5=dda4e29d8b12aa23fe9513179671709c (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.3.1
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.3.2.tar.gz#md5=35b3b750493c231145c39db0216813e7 (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.3.2
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.3.3.tar.gz#md5=27aa20071880b16493e3e25a5f83cc32 (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.3.3
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.4.0.tar.gz#md5=2649560205a02473998e0e7dd881ee5a (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.4.0
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.4.1.tar.gz#md5=4e5125f249580ae4f815d7291f505124 (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.4.1
+    Found link https://pypi.python.org/packages/source/r/requests-oauthlib/requests-oauthlib-0.4.2.tar.gz#md5=df930abe3971fb418c67a8545de54661 (from https://pypi.python.org/simple/requests-oauthlib/), version: 0.4.2
+    Skipping link http://python-requests.org (from https://pypi.python.org/simple/requests-oauthlib/); not a file
+  Using version 0.4.2 (newest of versions: 0.4.2, 0.4.2, 0.4.1, 0.4.1, 0.4.0, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.0)
+  Downloading requests_oauthlib-0.4.2-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/2.7/r/requests-oauthlib/requests_oauthlib-0.4.2-py2.py3-none-any.whl#md5=0e51c9ce10f5eb53456911d4951f226e (from https://pypi.python.org/simple/requests-oauthlib/)
+Requirement already satisfied (use --upgrade to upgrade): requests in /usr/lib/python2.7/dist-packages (from python-twitter)
+Downloading/unpacking simplejson (from python-twitter)
+  Getting page https://pypi.python.org/simple/simplejson/
+  URLs to search for versions for simplejson (from python-twitter):
+  * https://pypi.python.org/simple/simplejson/
+  Analyzing links from page https://pypi.python.org/simple/simplejson/
+    Skipping link https://pypi.python.org/packages/2.3/s/simplejson/simplejson-1.1-py2.3.egg#md5=4a27d6644ba6a44bf82d5ef438b92d8a (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.1-py2.4.egg#md5=af24eddbfe7b8ac79d582d66d8ac6120 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.3-py2.4.egg#md5=f2f04b9b5282fc2627dae9e3526906af (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.4-py2.4.egg#md5=4f18e31fd095cd54e5015e7b7a147093 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.5-py2.4.egg#md5=ce2b5596a41bff29620971cf419a0b06 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.6-py2.4.egg#md5=3f823c551581a98b2974155656063ce1 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.7-py2.4-freebsd-6.1-RELEASE-p3-i386.egg#md5=ad00231eb03eb08f28e61a319ffc38ac (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.7-py2.4-freebsd-6.2-RELEASE-p3-i386.egg#md5=57cfb485618fba0037e1d2c14a11c2a1 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.7-py2.4-linux-i686.egg#md5=f8e2fac9adcdac0fb7601f15ab22e9d2 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.7-py2.4-macosx-10.3-fat.egg#md5=0b5beb7cb7b0b8ec86971db84e721dae (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.7-py2.4.egg#md5=57715b70f546752fc5e7040b8cb70f6e (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.7.1-py2.4-macosx-10.3-fat.egg#md5=c8933b5073f0bbeedd61b2de2a567907 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/s/simplejson/simplejson-1.7.1-py2.4.egg#md5=dfc717010a6ee597a43f6b57a9768777 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-1.7-py2.5-macosx-10.3-fat.egg#md5=6396c696770eab9c523eb60d490410c6 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-1.7-py2.5.egg#md5=48275afc9a7a5612ae862c62e8352c36 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-1.7.1-py2.5-macosx-10.3-fat.egg#md5=318ddfca6d052f0c703cfd1e9725792c (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-1.7.1-py2.5.egg#md5=8a2e4e556c8110506e24f125c362f944 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-1.7.2-py2.5-macosx-10.3-fat.egg#md5=1990127f3681225dae91237610cb3b38 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-1.7.3-py2.5-macosx-10.3-fat.egg#md5=70fff32f30c14e27be7352d2969a58e2 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.5-py2.5-win32.egg#md5=088c2c2cd564c7029560fb3bb427822d (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.6-py2.5-linux-i686.egg#md5=8808fba6300f41e51a4a956b77f0331e (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.6-py2.5-win32.egg#md5=b7ef62af279bdbd9783db43a13775ba6 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.7-py2.5-win32.egg#md5=988b06121977a6dc69df30cfda925d13 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.7.win32-py2.5.exe#md5=f5285850f9f73cac99ecdb0e415ec4fc (from https://pypi.python.org/simple/simplejson/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.8-py2.5-win32.egg#md5=dde32f26d7561de7562cdb93073a0716 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.8.win32-py2.5.exe#md5=5c84c2fee57bc8f9bc8f43fe41169cd3 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.0.9-py2.5-win32.egg#md5=6c8e1117f875ecc62b4bcea71d615837 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.1.1-py2.5-win32.egg#md5=21079a9827d48b3c11783fd461ccbece (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/s/simplejson/simplejson-2.1.1.win32-py2.5.exe#md5=d51f6a4dff29eabf34054903d758f003 (from https://pypi.python.org/simple/simplejson/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/s/simplejson/simplejson-2.1.0-py2.6-linux-x86_64.egg#md5=f8db9f63f64e636ee07f87c68aebc2dd (from https://pypi.python.org/simple/simplejson/); unknown archive format: .egg
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.1.tar.gz#md5=e7f6899d5a7a389335adb870f9ffa5a4 (from https://pypi.python.org/simple/simplejson/), version: 1.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.3.tar.gz#md5=fbe039b9b863572651a0f665acea34c9 (from https://pypi.python.org/simple/simplejson/), version: 1.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.4.tar.gz#md5=5fbad786a4b151d44a9b1e1e157e5510 (from https://pypi.python.org/simple/simplejson/), version: 1.4
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.5.tar.gz#md5=16e579c1230e7a0469f9e46b57fb53df (from https://pypi.python.org/simple/simplejson/), version: 1.5
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.6.tar.gz#md5=be3e13943a9627a3cfc012e31db0550b (from https://pypi.python.org/simple/simplejson/), version: 1.6
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.7.1.tar.gz#md5=b723d488ea43583122511263e9c2c93a (from https://pypi.python.org/simple/simplejson/), version: 1.7.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.7.2.tar.gz#md5=733ebc212e91b60b3b47039a5343c133 (from https://pypi.python.org/simple/simplejson/), version: 1.7.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.7.3.tar.gz#md5=03935eda1211f29d6856481baf6cba59 (from https://pypi.python.org/simple/simplejson/), version: 1.7.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.7.4.tar.gz#md5=0395956395d22657c333a1de57dce2d3 (from https://pypi.python.org/simple/simplejson/), version: 1.7.4
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.7.5.tar.gz#md5=649e1095b2600fc57ac34fbde8a88348 (from https://pypi.python.org/simple/simplejson/), version: 1.7.5
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.7.tar.gz#md5=1e8866f758ef8e7d5fe6ebeb1b26e4eb (from https://pypi.python.org/simple/simplejson/), version: 1.7
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.8.1.tar.gz#md5=7d024d6ae74abb269637be204e132bdc (from https://pypi.python.org/simple/simplejson/), version: 1.8.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.8.tar.gz#md5=7aa92cf4a81973c7087023cafeaddb18 (from https://pypi.python.org/simple/simplejson/), version: 1.8
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.9.1.tar.gz#md5=d2ee608bdf6397b82a7cd53c8602b29e (from https://pypi.python.org/simple/simplejson/), version: 1.9.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.9.2.tar.gz#md5=9fe5d9a98da5ffc347bfee2ccf386fcb (from https://pypi.python.org/simple/simplejson/), version: 1.9.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.9.3.tar.gz#md5=321f7ad3a347e5a11814bcfecf8b9d11 (from https://pypi.python.org/simple/simplejson/), version: 1.9.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-1.9.tar.gz#md5=8780ac416325d22a59252f7cd9561373 (from https://pypi.python.org/simple/simplejson/), version: 1.9
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.0.tar.gz#md5=6a7aea9ecdf5180557ea91027ee2638f (from https://pypi.python.org/simple/simplejson/), version: 2.0.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.1.tar.gz#md5=ee2d74d695dc63d188fc3d3c6aa0d90a (from https://pypi.python.org/simple/simplejson/), version: 2.0.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.2.tar.gz#md5=4dda296391c71ce60a0a6294192a2f37 (from https://pypi.python.org/simple/simplejson/), version: 2.0.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.3.tar.gz#md5=6da5d665c9e772ac65eae9b4ce6d737b (from https://pypi.python.org/simple/simplejson/), version: 2.0.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.4.tar.gz#md5=9a888ea017ef2fcd42a2823454950b16 (from https://pypi.python.org/simple/simplejson/), version: 2.0.4
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.5.tar.gz#md5=11e65b91e7fd08eda931e683c5f98543 (from https://pypi.python.org/simple/simplejson/), version: 2.0.5
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.6.tar.gz#md5=1c200c8d5ba910706bad0618389e9e3c (from https://pypi.python.org/simple/simplejson/), version: 2.0.6
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.7.tar.gz#md5=9d02273f8615b8e3fceda891ffff10d1 (from https://pypi.python.org/simple/simplejson/), version: 2.0.7
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.8.tar.gz#md5=29f8a89bcc4d751f4039436ec769807f (from https://pypi.python.org/simple/simplejson/), version: 2.0.8
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.0.9.tar.gz#md5=af5e67a39ca3408563411d357e6d5e47 (from https://pypi.python.org/simple/simplejson/), version: 2.0.9
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.1.0.tar.gz#md5=3ea565fd1216462162c6929b264cf365 (from https://pypi.python.org/simple/simplejson/), version: 2.1.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.1.1.tar.gz#md5=0bbe3a2e5e4cac040013733aca159d89 (from https://pypi.python.org/simple/simplejson/), version: 2.1.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.1.2.tar.gz#md5=a856f9ae9ab3749991a93ddeafadc554 (from https://pypi.python.org/simple/simplejson/), version: 2.1.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.1.3.tar.gz#md5=58d9b1d8fa17ea4ce205cea088607e02 (from https://pypi.python.org/simple/simplejson/), version: 2.1.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.1.4.tar.gz#md5=906404e3cd29cb7f3e1537c55fcb6a5a (from https://pypi.python.org/simple/simplejson/), version: 2.1.4
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.1.5.tar.gz#md5=03b7833ea09ce2793e516be009d6b169 (from https://pypi.python.org/simple/simplejson/), version: 2.1.5
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.1.6.tar.gz#md5=2f8351f6e6fe7ef25744805dfa56c0d5 (from https://pypi.python.org/simple/simplejson/), version: 2.1.6
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.2.0.tar.gz#md5=dce9869b0ade3840e4ad7b101cb1877c (from https://pypi.python.org/simple/simplejson/), version: 2.2.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.2.1.tar.gz#md5=070c6467462bd63306f1756b01df6d70 (from https://pypi.python.org/simple/simplejson/), version: 2.2.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.3.0.tar.gz#md5=aa4a2558247caef13815c7598e7d072f (from https://pypi.python.org/simple/simplejson/), version: 2.3.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.3.1.tar.gz#md5=7df18b96cac866393fc2f4a12bd425ab (from https://pypi.python.org/simple/simplejson/), version: 2.3.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.3.2.tar.gz#md5=0863e016f682f06ead07dd9efad95194 (from https://pypi.python.org/simple/simplejson/), version: 2.3.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.3.3.tar.gz#md5=c4ae3452606f2ab173cdfaf5c46823c4 (from https://pypi.python.org/simple/simplejson/), version: 2.3.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.4.0.tar.gz#md5=0020e2b33ee8a9b156e0652a96d9eeba (from https://pypi.python.org/simple/simplejson/), version: 2.4.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.5.0.tar.gz#md5=3160556224e3e0cd9605c101eb0de3b9 (from https://pypi.python.org/simple/simplejson/), version: 2.5.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.5.1.tar.gz#md5=6a8447234a38deed4d17f0bfc673d454 (from https://pypi.python.org/simple/simplejson/), version: 2.5.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.5.2.tar.gz#md5=d7a7acf0bd7681bd116b5c981d2f7959 (from https://pypi.python.org/simple/simplejson/), version: 2.5.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.6.0.tar.gz#md5=43b43b22f190a999c79a2af0c504e3a6 (from https://pypi.python.org/simple/simplejson/), version: 2.6.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.6.1.tar.gz#md5=03fbb6c4a4d37a767af7848f902e2ad4 (from https://pypi.python.org/simple/simplejson/), version: 2.6.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-2.6.2.tar.gz#md5=9b41cd412dfac7c002aeca61ab0fdfe2 (from https://pypi.python.org/simple/simplejson/), version: 2.6.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.0.tar.gz#md5=3e05cca188ed5b24ae9f9756525f38fe (from https://pypi.python.org/simple/simplejson/), version: 3.0.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.3.tar.gz#md5=45b9577447af8c2783fc2395d9469c38 (from https://pypi.python.org/simple/simplejson/), version: 3.0.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.4.tar.gz#md5=af6bea9f913481a8a86298c841ffbb27 (from https://pypi.python.org/simple/simplejson/), version: 3.0.4
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.5.tar.gz#md5=8223d7e17d631a4740a45d4f9d6d1c0d (from https://pypi.python.org/simple/simplejson/), version: 3.0.5
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.6.tar.gz#md5=1d7a90099121f05777e734e7b0034a71 (from https://pypi.python.org/simple/simplejson/), version: 3.0.6
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.7.tar.gz#md5=f674e9035aee1064dae90b22aa76ea98 (from https://pypi.python.org/simple/simplejson/), version: 3.0.7
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.8.tar.gz#md5=a3b584dcc6963074c24f391b20edd805 (from https://pypi.python.org/simple/simplejson/), version: 3.0.8
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.0.9.tar.gz#md5=ca9a9e44334463d59a83b80412149bde (from https://pypi.python.org/simple/simplejson/), version: 3.0.9
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.1.0.tar.gz#md5=71df0076d4a35d29bfea530cb8226c26 (from https://pypi.python.org/simple/simplejson/), version: 3.1.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.1.2.tar.gz#md5=95f89e4a6079946a9bfc7f6424f71e15 (from https://pypi.python.org/simple/simplejson/), version: 3.1.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.1.3.tar.gz#md5=ffb9fdd8ff3225a61b455bb1bcb98e41 (from https://pypi.python.org/simple/simplejson/), version: 3.1.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.2.0.tar.gz#md5=b37e7b984ce8c7a0c2260ba080d9aaee (from https://pypi.python.org/simple/simplejson/), version: 3.2.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.3.0.tar.gz#md5=0e29b393bceac8081fa4e93ff9f6a001 (from https://pypi.python.org/simple/simplejson/), version: 3.3.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.3.1.tar.gz#md5=36eec59b63bb852eaaac724ac8985f74 (from https://pypi.python.org/simple/simplejson/), version: 3.3.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.3.2.tar.gz#md5=0bde5ac847d6a79e1d560f7a10d039b2 (from https://pypi.python.org/simple/simplejson/), version: 3.3.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.3.3.tar.gz#md5=38ff12d163e5cc8c592d609820869817 (from https://pypi.python.org/simple/simplejson/), version: 3.3.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.4.0.tar.gz#md5=c076e04916679e4b08ec30f23844fbbf (from https://pypi.python.org/simple/simplejson/), version: 3.4.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.4.1.tar.gz#md5=5ab77a58759fcdfc14ecbe62a0775847 (from https://pypi.python.org/simple/simplejson/), version: 3.4.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.5.0.tar.gz#md5=7c4c4ccb81b8c21ffffdbd19d0d57d03 (from https://pypi.python.org/simple/simplejson/), version: 3.5.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.5.1.tar.gz#md5=35f9fdfd72d1d94894ec44048b9249f4 (from https://pypi.python.org/simple/simplejson/), version: 3.5.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.5.2.tar.gz#md5=10ff73aa857b01472a51acb4848fcf8b (from https://pypi.python.org/simple/simplejson/), version: 3.5.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.5.3.tar.gz#md5=d5f62dfa6b6dea31735d56c858361d48 (from https://pypi.python.org/simple/simplejson/), version: 3.5.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.6.0.tar.gz#md5=20e1880a8c6120b54077bfac50306823 (from https://pypi.python.org/simple/simplejson/), version: 3.6.0
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.6.1.tar.gz#md5=29c9a8f846881c2420a3aea7b3816707 (from https://pypi.python.org/simple/simplejson/), version: 3.6.1
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.6.2.tar.gz#md5=deca871b9bfa4b76ea360756b2a22710 (from https://pypi.python.org/simple/simplejson/), version: 3.6.2
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.6.3.tar.gz#md5=bbb654c2d9b5e3c176af1a22522a458f (from https://pypi.python.org/simple/simplejson/), version: 3.6.3
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.6.4.tar.gz#md5=141cde5f24347e74ed6771740af7bf4a (from https://pypi.python.org/simple/simplejson/), version: 3.6.4
+    Found link https://pypi.python.org/packages/source/s/simplejson/simplejson-3.6.5.tar.gz#md5=b65dc21c7aaad14c6b4ad0d9179e437d (from https://pypi.python.org/simple/simplejson/), version: 3.6.5
+  Using version 3.6.5 (newest of versions: 3.6.5, 3.6.4, 3.6.3, 3.6.2, 3.6.1, 3.6.0, 3.5.3, 3.5.2, 3.5.1, 3.5.0, 3.4.1, 3.4.0, 3.3.3, 3.3.2, 3.3.1, 3.3.0, 3.2.0, 3.1.3, 3.1.2, 3.1.0, 3.0.9, 3.0.8, 3.0.7, 3.0.6, 3.0.5, 3.0.4, 3.0.3, 3.0.0, 2.6.2, 2.6.1, 2.6.0, 2.5.2, 2.5.1, 2.5.0, 2.4.0, 2.3.3, 2.3.2, 2.3.1, 2.3.0, 2.2.1, 2.2.0, 2.1.6, 2.1.5, 2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1.0, 2.0.9, 2.0.8, 2.0.7, 2.0.6, 2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.9.3, 1.9.2, 1.9.1, 1.9, 1.8.1, 1.8, 1.7.5, 1.7.4, 1.7.3, 1.7.2, 1.7.1, 1.7, 1.6, 1.5, 1.4, 1.3, 1.1)
+  Downloading from URL https://pypi.python.org/packages/source/s/simplejson/simplejson-3.6.5.tar.gz#md5=b65dc21c7aaad14c6b4ad0d9179e437d (from https://pypi.python.org/simple/simplejson/)
+  Running setup.py (path:/tmp/pip_build_root/simplejson/setup.py) egg_info for package simplejson
+    running egg_info
+    creating pip-egg-info/simplejson.egg-info
+    writing pip-egg-info/simplejson.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/simplejson.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/simplejson.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/simplejson.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'pip-egg-info/simplejson.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/simplejson.egg-info/SOURCES.txt'
+  Source in /tmp/pip_build_root/simplejson has version 3.6.5, which satisfies requirement simplejson (from python-twitter)
+Downloading/unpacking oauthlib>=0.6.2 (from requests-oauthlib->python-twitter)
+  Getting page https://pypi.python.org/simple/oauthlib/
+  URLs to search for versions for oauthlib>=0.6.2 (from requests-oauthlib->python-twitter):
+  * https://pypi.python.org/simple/oauthlib/
+  Analyzing links from page https://pypi.python.org/simple/oauthlib/
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.0.1.tar.gz#md5=f4837069a99ecc07b34b1e6888deb13a (from https://pypi.python.org/simple/oauthlib/), version: 0.0.1
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.0.2.tar.gz#md5=c4258b6eac3e75d744634f89df12a2ba (from https://pypi.python.org/simple/oauthlib/), version: 0.0.2
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.0.tar.gz#md5=063e1153e19b91ac4c718bdb8883e4eb (from https://pypi.python.org/simple/oauthlib/), version: 0.1.0
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.1.tar.gz#md5=742d258c051005a772bd16f474325dd8 (from https://pypi.python.org/simple/oauthlib/), version: 0.1.1
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.2.tar.gz#md5=dce0471e2bd22e1c3ece6efac7b46316 (from https://pypi.python.org/simple/oauthlib/), version: 0.1.2
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.3.tar.gz#md5=9e191613b92c6a6bb7aefc24e76d21b6 (from https://pypi.python.org/simple/oauthlib/), version: 0.1.3
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.0.tar.gz#md5=0330201a1aef2d6d92cb0516f81fc1fe (from https://pypi.python.org/simple/oauthlib/), version: 0.3.0
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.2.tar.gz#md5=c354cb968e420226276baa00233dbdad (from https://pypi.python.org/simple/oauthlib/), version: 0.3.2
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.3.tar.gz#md5=0ed56b8cc2ca4d9784cf1606330e5413 (from https://pypi.python.org/simple/oauthlib/), version: 0.3.3
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.4.tar.gz#md5=03556517a7f076b8c8b7551bca80eb29 (from https://pypi.python.org/simple/oauthlib/), version: 0.3.4
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.5.tar.gz#md5=230144a4a7bcbfa3250c95d69c24f329 (from https://pypi.python.org/simple/oauthlib/), version: 0.3.5
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.6.tar.gz#md5=81e151a4e04c854841566a7fd73a30b6 (from https://pypi.python.org/simple/oauthlib/), version: 0.3.6
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.7.tar.gz#md5=75c861ffde4ea2170bb62428eb78ef69 (from https://pypi.python.org/simple/oauthlib/), version: 0.3.7
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.8.tar.gz#md5=d5b6078b47c52db1bf93e1b277846173 (from https://pypi.python.org/simple/oauthlib/), version: 0.3.8
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.4.0.tar.gz#md5=882d5c5cba171df5943a6b8fc9404455 (from https://pypi.python.org/simple/oauthlib/), version: 0.4.0
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.4.1.tar.gz#md5=c5e525c73cead174b1025951f6e2f330 (from https://pypi.python.org/simple/oauthlib/), version: 0.4.1
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.4.2.tar.gz#md5=0c2cc4a7c36630ec0bb202e140b0fc82 (from https://pypi.python.org/simple/oauthlib/), version: 0.4.2
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.5.0.tar.gz#md5=d12c507de33403ebdf290fbffdb98213 (from https://pypi.python.org/simple/oauthlib/), version: 0.5.0
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.5.1.tar.gz#md5=45ebbd43c9430bb404c9aa0979d949f2 (from https://pypi.python.org/simple/oauthlib/), version: 0.5.1
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.6.0.tar.gz#md5=b7c3e1832ec111e65baaab2de7834aae (from https://pypi.python.org/simple/oauthlib/), version: 0.6.0
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.6.1.tar.gz#md5=18f8524c85606380c1ef8a7ff50d69cc (from https://pypi.python.org/simple/oauthlib/), version: 0.6.1
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.6.2.tar.gz#md5=e987fec8f58cd0f3896d750bb5536d8d (from https://pypi.python.org/simple/oauthlib/), version: 0.6.2
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.6.3.tar.gz#md5=3ecba28f991ee58db2aeda8b4e2b56b1 (from https://pypi.python.org/simple/oauthlib/), version: 0.6.3
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.7.0.tar.gz#md5=34d40d666ff383cae683b9c7028f092e (from https://pypi.python.org/simple/oauthlib/), version: 0.7.0
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.7.1.tar.gz#md5=ef5eda064c5732516c6d199892d7aaec (from https://pypi.python.org/simple/oauthlib/), version: 0.7.1
+    Found link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.7.2.tar.gz#md5=eb60abdb002b9c08d248707b79a1cc92 (from https://pypi.python.org/simple/oauthlib/), version: 0.7.2
+    Skipping link http://docs.python-requests.org/en/latest/user/quickstart/#oauth-authentication (from https://pypi.python.org/simple/oauthlib/); not a file
+    Skipping link http://tools.ietf.org/html/rfc5849 (from https://pypi.python.org/simple/oauthlib/); not a file
+    Skipping link https://coveralls.io/r/idan/oauthlib (from https://pypi.python.org/simple/oauthlib/); not a file
+    Skipping link https://github.com/kennethreitz/requests (from https://pypi.python.org/simple/oauthlib/); not a file
+    Skipping link https://github.com/requests/requests-oauthlib (from https://pypi.python.org/simple/oauthlib/); not a file
+    Skipping link https://oauthlib.readthedocs.org/en/latest/index.html (from https://pypi.python.org/simple/oauthlib/); unknown archive format: .html
+    Skipping link https://plus.google.com/communities/101889017375384052571 (from https://pypi.python.org/simple/oauthlib/); not a file
+    Skipping link https://travis-ci.org/idan/oauthlib (from https://pypi.python.org/simple/oauthlib/); not a file
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.0.1.tar.gz#md5=f4837069a99ecc07b34b1e6888deb13a (from https://pypi.python.org/simple/oauthlib/), version 0.0.1 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.0.2.tar.gz#md5=c4258b6eac3e75d744634f89df12a2ba (from https://pypi.python.org/simple/oauthlib/), version 0.0.2 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.0.tar.gz#md5=063e1153e19b91ac4c718bdb8883e4eb (from https://pypi.python.org/simple/oauthlib/), version 0.1.0 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.1.tar.gz#md5=742d258c051005a772bd16f474325dd8 (from https://pypi.python.org/simple/oauthlib/), version 0.1.1 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.2.tar.gz#md5=dce0471e2bd22e1c3ece6efac7b46316 (from https://pypi.python.org/simple/oauthlib/), version 0.1.2 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.1.3.tar.gz#md5=9e191613b92c6a6bb7aefc24e76d21b6 (from https://pypi.python.org/simple/oauthlib/), version 0.1.3 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.0.tar.gz#md5=0330201a1aef2d6d92cb0516f81fc1fe (from https://pypi.python.org/simple/oauthlib/), version 0.3.0 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.2.tar.gz#md5=c354cb968e420226276baa00233dbdad (from https://pypi.python.org/simple/oauthlib/), version 0.3.2 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.3.tar.gz#md5=0ed56b8cc2ca4d9784cf1606330e5413 (from https://pypi.python.org/simple/oauthlib/), version 0.3.3 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.4.tar.gz#md5=03556517a7f076b8c8b7551bca80eb29 (from https://pypi.python.org/simple/oauthlib/), version 0.3.4 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.5.tar.gz#md5=230144a4a7bcbfa3250c95d69c24f329 (from https://pypi.python.org/simple/oauthlib/), version 0.3.5 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.6.tar.gz#md5=81e151a4e04c854841566a7fd73a30b6 (from https://pypi.python.org/simple/oauthlib/), version 0.3.6 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.7.tar.gz#md5=75c861ffde4ea2170bb62428eb78ef69 (from https://pypi.python.org/simple/oauthlib/), version 0.3.7 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.3.8.tar.gz#md5=d5b6078b47c52db1bf93e1b277846173 (from https://pypi.python.org/simple/oauthlib/), version 0.3.8 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.4.0.tar.gz#md5=882d5c5cba171df5943a6b8fc9404455 (from https://pypi.python.org/simple/oauthlib/), version 0.4.0 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.4.1.tar.gz#md5=c5e525c73cead174b1025951f6e2f330 (from https://pypi.python.org/simple/oauthlib/), version 0.4.1 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.4.2.tar.gz#md5=0c2cc4a7c36630ec0bb202e140b0fc82 (from https://pypi.python.org/simple/oauthlib/), version 0.4.2 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.5.0.tar.gz#md5=d12c507de33403ebdf290fbffdb98213 (from https://pypi.python.org/simple/oauthlib/), version 0.5.0 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.5.1.tar.gz#md5=45ebbd43c9430bb404c9aa0979d949f2 (from https://pypi.python.org/simple/oauthlib/), version 0.5.1 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.6.0.tar.gz#md5=b7c3e1832ec111e65baaab2de7834aae (from https://pypi.python.org/simple/oauthlib/), version 0.6.0 doesn't match >=0.6.2
+  Ignoring link https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.6.1.tar.gz#md5=18f8524c85606380c1ef8a7ff50d69cc (from https://pypi.python.org/simple/oauthlib/), version 0.6.1 doesn't match >=0.6.2
+  Using version 0.7.2 (newest of versions: 0.7.2, 0.7.1, 0.7.0, 0.6.3, 0.6.2)
+  Downloading from URL https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.7.2.tar.gz#md5=eb60abdb002b9c08d248707b79a1cc92 (from https://pypi.python.org/simple/oauthlib/)
+  Running setup.py (path:/tmp/pip_build_root/oauthlib/setup.py) egg_info for package oauthlib
+    running egg_info
+    creating pip-egg-info/oauthlib.egg-info
+    writing requirements to pip-egg-info/oauthlib.egg-info/requires.txt
+    writing pip-egg-info/oauthlib.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/oauthlib.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/oauthlib.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/oauthlib.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'pip-egg-info/oauthlib.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/oauthlib.egg-info/SOURCES.txt'
+  Source in /tmp/pip_build_root/oauthlib has version 0.7.2, which satisfies requirement oauthlib>=0.6.2 (from requests-oauthlib->python-twitter)
+  skipping extra test
+  skipping extra test
+  skipping extra test
+  skipping extra test
+  skipping extra test
+  skipping extra test
+  skipping extra signals
+  skipping extra signedtoken
+  skipping extra signedtoken
+  skipping extra rsa
+Installing collected packages: python-twitter, requests-oauthlib, simplejson, oauthlib
+  Running setup.py install for simplejson
+    Running command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_root/simplejson/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-heid1U-record/install-record.txt --single-version-externally-managed --compile
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-x86_64-2.7
+    creating build/lib.linux-x86_64-2.7/simplejson
+    copying simplejson/decoder.py -> build/lib.linux-x86_64-2.7/simplejson
+    copying simplejson/compat.py -> build/lib.linux-x86_64-2.7/simplejson
+    copying simplejson/encoder.py -> build/lib.linux-x86_64-2.7/simplejson
+    copying simplejson/__init__.py -> build/lib.linux-x86_64-2.7/simplejson
+    copying simplejson/tool.py -> build/lib.linux-x86_64-2.7/simplejson
+    copying simplejson/ordered_dict.py -> build/lib.linux-x86_64-2.7/simplejson
+    copying simplejson/scanner.py -> build/lib.linux-x86_64-2.7/simplejson
+    creating build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_bigint_as_string.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_unicode.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_default.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_recursion.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_namedtuple.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_pass3.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_pass2.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_speedups.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_pass1.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_item_sort_key.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_float.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_indent.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_dump.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_bitsize_int_as_string.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/__init__.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_for_json.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_fail.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_check_circular.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_decimal.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_encode_basestring_ascii.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_tuple.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_scanstring.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_errors.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_encode_for_html.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_separators.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_tool.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    copying simplejson/tests/test_decode.py -> build/lib.linux-x86_64-2.7/simplejson/tests
+    running build_ext
+    building 'simplejson._speedups' extension
+    creating build/temp.linux-x86_64-2.7
+    creating build/temp.linux-x86_64-2.7/simplejson
+    x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c simplejson/_speedups.c -o build/temp.linux-x86_64-2.7/simplejson/_speedups.o
+    simplejson/_speedups.c:2:20: fatal error: Python.h: No such file or directory
+     #include "Python.h"
+                        ^
+    compilation terminated.
+    ***************************************************************************
+    WARNING: The C extension could not be compiled, speedups are not enabled.
+    Failure information, if any, is above.
+    I'm retrying the build without the C extension now.
+    ***************************************************************************
+    running install
+    running build
+    running build_py
+    running install_lib
+    creating /usr/local/lib/python2.7/dist-packages/simplejson
+    copying build/lib.linux-x86_64-2.7/simplejson/decoder.py -> /usr/local/lib/python2.7/dist-packages/simplejson
+    copying build/lib.linux-x86_64-2.7/simplejson/compat.py -> /usr/local/lib/python2.7/dist-packages/simplejson
+    creating /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_bigint_as_string.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_unicode.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_default.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_recursion.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_namedtuple.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_pass3.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_pass2.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_speedups.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_pass1.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_item_sort_key.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_float.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_indent.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_dump.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_bitsize_int_as_string.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/__init__.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_for_json.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_fail.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_check_circular.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_decimal.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_encode_basestring_ascii.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_tuple.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_scanstring.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_errors.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_encode_for_html.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_separators.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_tool.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/tests/test_decode.py -> /usr/local/lib/python2.7/dist-packages/simplejson/tests
+    copying build/lib.linux-x86_64-2.7/simplejson/encoder.py -> /usr/local/lib/python2.7/dist-packages/simplejson
+    copying build/lib.linux-x86_64-2.7/simplejson/__init__.py -> /usr/local/lib/python2.7/dist-packages/simplejson
+    copying build/lib.linux-x86_64-2.7/simplejson/tool.py -> /usr/local/lib/python2.7/dist-packages/simplejson
+    copying build/lib.linux-x86_64-2.7/simplejson/ordered_dict.py -> /usr/local/lib/python2.7/dist-packages/simplejson
+    copying build/lib.linux-x86_64-2.7/simplejson/scanner.py -> /usr/local/lib/python2.7/dist-packages/simplejson
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/decoder.py to decoder.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/compat.py to compat.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_bigint_as_string.py to test_bigint_as_string.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_unicode.py to test_unicode.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_default.py to test_default.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_recursion.py to test_recursion.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_namedtuple.py to test_namedtuple.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_pass3.py to test_pass3.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_pass2.py to test_pass2.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_speedups.py to test_speedups.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_pass1.py to test_pass1.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_item_sort_key.py to test_item_sort_key.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_float.py to test_float.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_indent.py to test_indent.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_dump.py to test_dump.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_bitsize_int_as_string.py to test_bitsize_int_as_string.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_for_json.py to test_for_json.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_fail.py to test_fail.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_check_circular.py to test_check_circular.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_decimal.py to test_decimal.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_encode_basestring_ascii.py to test_encode_basestring_ascii.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_tuple.py to test_tuple.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_scanstring.py to test_scanstring.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_errors.py to test_errors.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_encode_for_html.py to test_encode_for_html.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_separators.py to test_separators.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_tool.py to test_tool.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tests/test_decode.py to test_decode.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/encoder.py to encoder.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/tool.py to tool.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/ordered_dict.py to ordered_dict.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/simplejson/scanner.py to scanner.pyc
+    running install_egg_info
+    running egg_info
+    writing simplejson.egg-info/PKG-INFO
+    writing top-level names to simplejson.egg-info/top_level.txt
+    writing dependency_links to simplejson.egg-info/dependency_links.txt
+    warning: manifest_maker: standard file '-c' not found
+    
+    reading manifest file 'simplejson.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'simplejson.egg-info/SOURCES.txt'
+    Copying simplejson.egg-info to /usr/local/lib/python2.7/dist-packages/simplejson-3.6.5.egg-info
+    running install_scripts
+    writing list of installed files to '/tmp/pip-heid1U-record/install-record.txt'
+    ***************************************************************************
+    WARNING: The C extension could not be compiled, speedups are not enabled.
+    Plain-Python installation succeeded.
+    ***************************************************************************
+  Running setup.py install for oauthlib
+    Running command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_root/oauthlib/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-3U8elv-record/install-record.txt --single-version-externally-managed --compile
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-x86_64-2.7
+    creating build/lib.linux-x86_64-2.7/oauthlib
+    copying oauthlib/signals.py -> build/lib.linux-x86_64-2.7/oauthlib
+    copying oauthlib/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib
+    copying oauthlib/common.py -> build/lib.linux-x86_64-2.7/oauthlib
+    copying oauthlib/uri_validate.py -> build/lib.linux-x86_64-2.7/oauthlib
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth2
+    copying oauthlib/oauth2/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth1
+    copying oauthlib/oauth1/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+    copying oauthlib/oauth2/rfc6749/request_validator.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+    copying oauthlib/oauth2/rfc6749/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+    copying oauthlib/oauth2/rfc6749/utils.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+    copying oauthlib/oauth2/rfc6749/errors.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+    copying oauthlib/oauth2/rfc6749/tokens.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+    copying oauthlib/oauth2/rfc6749/parameters.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+    copying oauthlib/oauth1/rfc5849/signature.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+    copying oauthlib/oauth1/rfc5849/request_validator.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+    copying oauthlib/oauth1/rfc5849/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+    copying oauthlib/oauth1/rfc5849/utils.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+    copying oauthlib/oauth1/rfc5849/errors.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+    copying oauthlib/oauth1/rfc5849/parameters.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    copying oauthlib/oauth2/rfc6749/clients/service_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    copying oauthlib/oauth2/rfc6749/clients/backend_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    copying oauthlib/oauth2/rfc6749/clients/mobile_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    copying oauthlib/oauth2/rfc6749/clients/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    copying oauthlib/oauth2/rfc6749/clients/web_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    copying oauthlib/oauth2/rfc6749/clients/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    copying oauthlib/oauth2/rfc6749/clients/legacy_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    copying oauthlib/oauth2/rfc6749/grant_types/refresh_token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    copying oauthlib/oauth2/rfc6749/grant_types/client_credentials.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    copying oauthlib/oauth2/rfc6749/grant_types/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    copying oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    copying oauthlib/oauth2/rfc6749/grant_types/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    copying oauthlib/oauth2/rfc6749/grant_types/authorization_code.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    copying oauthlib/oauth2/rfc6749/grant_types/implicit.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    copying oauthlib/oauth2/rfc6749/endpoints/resource.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    copying oauthlib/oauth2/rfc6749/endpoints/revocation.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    copying oauthlib/oauth2/rfc6749/endpoints/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    copying oauthlib/oauth2/rfc6749/endpoints/token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    copying oauthlib/oauth2/rfc6749/endpoints/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    copying oauthlib/oauth2/rfc6749/endpoints/pre_configured.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    copying oauthlib/oauth2/rfc6749/endpoints/authorization.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+    creating build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/resource.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/request_token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/access_token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/pre_configured.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/authorization.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    copying oauthlib/oauth1/rfc5849/endpoints/signature_only.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+    running install_lib
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/request_validator.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/service_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/backend_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/mobile_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/web_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/legacy_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/utils.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/errors.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/implicit.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/resource.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/revocation.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/authorization.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/tokens.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/parameters.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+    copying build/lib.linux-x86_64-2.7/oauthlib/signals.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+    copying build/lib.linux-x86_64-2.7/oauthlib/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+    copying build/lib.linux-x86_64-2.7/oauthlib/common.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/signature.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/request_validator.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/utils.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/errors.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+    creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/resource.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/request_token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/access_token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/pre_configured.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/authorization.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/signature_only.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+    copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/parameters.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+    copying build/lib.linux-x86_64-2.7/oauthlib/uri_validate.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/request_validator.py to request_validator.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/service_application.py to service_application.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/backend_application.py to backend_application.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/mobile_application.py to mobile_application.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/web_application.py to web_application.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/base.py to base.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py to legacy_application.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/utils.py to utils.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/errors.py to errors.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py to refresh_token.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py to client_credentials.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py to resource_owner_password_credentials.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/base.py to base.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py to authorization_code.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/implicit.py to implicit.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/resource.py to resource.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/revocation.py to revocation.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/token.py to token.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/base.py to base.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py to pre_configured.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/authorization.py to authorization.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/tokens.py to tokens.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/parameters.py to parameters.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/signals.py to signals.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/common.py to common.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/signature.py to signature.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/request_validator.py to request_validator.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/utils.py to utils.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/errors.py to errors.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/resource.py to resource.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.py to request_token.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/access_token.py to access_token.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/__init__.py to __init__.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/base.py to base.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/pre_configured.py to pre_configured.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py to authorization.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/signature_only.py to signature_only.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/parameters.py to parameters.pyc
+    byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/uri_validate.py to uri_validate.pyc
+    running install_egg_info
+    running egg_info
+    error: [Errno 2] No such file or directory
+    Complete output from command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_root/oauthlib/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-3U8elv-record/install-record.txt --single-version-externally-managed --compile:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-x86_64-2.7
+
+creating build/lib.linux-x86_64-2.7/oauthlib
+
+copying oauthlib/signals.py -> build/lib.linux-x86_64-2.7/oauthlib
+
+copying oauthlib/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib
+
+copying oauthlib/common.py -> build/lib.linux-x86_64-2.7/oauthlib
+
+copying oauthlib/uri_validate.py -> build/lib.linux-x86_64-2.7/oauthlib
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth2
+
+copying oauthlib/oauth2/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth1
+
+copying oauthlib/oauth1/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+
+copying oauthlib/oauth2/rfc6749/request_validator.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+
+copying oauthlib/oauth2/rfc6749/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+
+copying oauthlib/oauth2/rfc6749/utils.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+
+copying oauthlib/oauth2/rfc6749/errors.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+
+copying oauthlib/oauth2/rfc6749/tokens.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+
+copying oauthlib/oauth2/rfc6749/parameters.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+
+copying oauthlib/oauth1/rfc5849/signature.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+
+copying oauthlib/oauth1/rfc5849/request_validator.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+
+copying oauthlib/oauth1/rfc5849/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+
+copying oauthlib/oauth1/rfc5849/utils.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+
+copying oauthlib/oauth1/rfc5849/errors.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+
+copying oauthlib/oauth1/rfc5849/parameters.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+copying oauthlib/oauth2/rfc6749/clients/service_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+copying oauthlib/oauth2/rfc6749/clients/backend_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+copying oauthlib/oauth2/rfc6749/clients/mobile_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+copying oauthlib/oauth2/rfc6749/clients/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+copying oauthlib/oauth2/rfc6749/clients/web_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+copying oauthlib/oauth2/rfc6749/clients/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+copying oauthlib/oauth2/rfc6749/clients/legacy_application.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+copying oauthlib/oauth2/rfc6749/grant_types/refresh_token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+copying oauthlib/oauth2/rfc6749/grant_types/client_credentials.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+copying oauthlib/oauth2/rfc6749/grant_types/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+copying oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+copying oauthlib/oauth2/rfc6749/grant_types/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+copying oauthlib/oauth2/rfc6749/grant_types/authorization_code.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+copying oauthlib/oauth2/rfc6749/grant_types/implicit.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+copying oauthlib/oauth2/rfc6749/endpoints/resource.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+copying oauthlib/oauth2/rfc6749/endpoints/revocation.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+copying oauthlib/oauth2/rfc6749/endpoints/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+copying oauthlib/oauth2/rfc6749/endpoints/token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+copying oauthlib/oauth2/rfc6749/endpoints/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+copying oauthlib/oauth2/rfc6749/endpoints/pre_configured.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+copying oauthlib/oauth2/rfc6749/endpoints/authorization.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints
+
+creating build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/resource.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/request_token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/access_token.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/__init__.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/base.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/pre_configured.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/authorization.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+copying oauthlib/oauth1/rfc5849/endpoints/signature_only.py -> build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints
+
+running install_lib
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/request_validator.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/service_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/backend_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/mobile_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/web_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/clients/legacy_application.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/utils.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/errors.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/grant_types/implicit.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/resource.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/revocation.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/endpoints/authorization.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/tokens.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth2/rfc6749/parameters.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749
+
+copying build/lib.linux-x86_64-2.7/oauthlib/signals.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+
+copying build/lib.linux-x86_64-2.7/oauthlib/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+
+copying build/lib.linux-x86_64-2.7/oauthlib/common.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/signature.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/request_validator.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/utils.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/errors.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+
+creating /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/resource.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/request_token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/access_token.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/__init__.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/base.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/pre_configured.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/authorization.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/endpoints/signature_only.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints
+
+copying build/lib.linux-x86_64-2.7/oauthlib/oauth1/rfc5849/parameters.py -> /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849
+
+copying build/lib.linux-x86_64-2.7/oauthlib/uri_validate.py -> /usr/local/lib/python2.7/dist-packages/oauthlib
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/request_validator.py to request_validator.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/service_application.py to service_application.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/backend_application.py to backend_application.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/mobile_application.py to mobile_application.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/web_application.py to web_application.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/base.py to base.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py to legacy_application.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/utils.py to utils.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/errors.py to errors.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py to refresh_token.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py to client_credentials.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py to resource_owner_password_credentials.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/base.py to base.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py to authorization_code.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/grant_types/implicit.py to implicit.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/resource.py to resource.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/revocation.py to revocation.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/token.py to token.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/base.py to base.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py to pre_configured.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/endpoints/authorization.py to authorization.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/tokens.py to tokens.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth2/rfc6749/parameters.py to parameters.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/signals.py to signals.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/common.py to common.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/signature.py to signature.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/request_validator.py to request_validator.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/utils.py to utils.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/errors.py to errors.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/resource.py to resource.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.py to request_token.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/access_token.py to access_token.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/__init__.py to __init__.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/base.py to base.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/pre_configured.py to pre_configured.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py to authorization.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/endpoints/signature_only.py to signature_only.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/oauth1/rfc5849/parameters.py to parameters.pyc
+
+byte-compiling /usr/local/lib/python2.7/dist-packages/oauthlib/uri_validate.py to uri_validate.pyc
+
+running install_egg_info
+
+running egg_info
+
+error: [Errno 2] No such file or directory
+
+----------------------------------------
+Cleaning up...
+Command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_root/oauthlib/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-3U8elv-record/install-record.txt --single-version-externally-managed --compile failed with error code 1 in /tmp/pip_build_root/oauthlib
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 283, in run
+    requirement_set.install(install_options, global_options, root=options.root_path)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1435, in install
+    requirement.install(install_options, global_options, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 706, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.7/dist-packages/pip/util.py", line 697, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+InstallationError: Command /usr/bin/python -c "import setuptools, tokenize;__file__='/tmp/pip_build_root/oauthlib/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-3U8elv-record/install-record.txt --single-version-externally-managed --compile failed with error code 1 in /tmp/pip_build_root/oauthlib
