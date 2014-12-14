@@ -1,0 +1,56 @@
+@RELATION spam
+@ATTRIBUTE num_hashtags REAL
+@ATTRIBUTE num_links REAL
+@ATTRIBUTE Spam {True, False}
+@DATA
+40,19, False
+0,20, False
+5,16, False
+0,20, False
+0,20, False
+18,20, False
+18,21, False
+9,4, False
+0,21, False
+38,20, False
+1,18, False
+0,20, False
+17,21, False
+67,10, False
+0,20, False
+12,21, False
+5,23, True
+8,6, True
+6,2, True
+14,14, True
+3,0, True
+0,1, True
+18,17, True
+14,7, True
+10,3, True
+24,16, True
+9,16, True
+7,0, True
+15,10, True
+14,9, True
+84,23, True
+20,19, True
+0,20, True
+12,6, True
+29,21, True
+17,9, True
+5,1, True
+20,16, True
+0,5, True
+31,9, True
+22,7, True
+12,6, True
+11,9, True
+24,22, True
+2,0, True
+129,16, True
+13,20, True
+69,20, True
+3,4, True
+2,2, True
+17,7, True
