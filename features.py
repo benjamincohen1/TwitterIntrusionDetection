@@ -1,8 +1,9 @@
 import re, helpers
-import nltk, pickle, math, ast
+import pickle
+#import nltk, pickle, math, ast
 from itertools import chain
 
-stops = nltk.corpus.stopwords.words()
+#stops = nltk.corpus.stopwords.words()
 
 # dim_uni_model = pickle.load(open('dementia_unigram_model.pkl'))
 # control_uni_model = pickle.load(open('control_unigram_model.pkl'))

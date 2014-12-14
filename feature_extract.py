@@ -1,8 +1,8 @@
 import  os, re
 import math, glob
 
-import nltk, inspect
-
+#import nltk, inspect
+import inspect
 import features
 import helpers, pickle
 counter = 0
