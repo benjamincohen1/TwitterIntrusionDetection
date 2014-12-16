@@ -234,6 +234,39 @@ def avg_favs(tweets):
 			favs.append(tw['favorite_count'])
 	return float(sum(favs))/len(favs)
 
+def pct_favorited(tweets):
+	username, tweets = pickle.loads(tweets)
+	favs = []
+	for t in tweets:
+		tw = t.AsDict()
+		# print tw['favorited']
+		if 'favorite_count' not in tw:
+			favs.append(False)
+		else:
+			favs.append(True)
+	return float(favs.count(True))/len(favs)
+
+def pct_retweeted(tweets):
+	username, tweets = pickle.loads(tweets)
+	favs = []
+	for t in tweets:
+		tw = t.AsDict()
+		# print tw['favorited']
+		if 'retweet_count' not in tw:
+			favs.append(False)
+		else:
+			favs.append(True)
+	return float(favs.count(True))/len(favs)
+
+
+# def acct_age(tweets):
+# 	username, tweets = pickle.loads(tweets)
+
+# 	ts = time.strftime('%Y-%m-%d %H:%M:%S', time.strptime(tweets[0].AsDict()['user']['created_at'],'%a %b %d %H:%M:%S +0000 %Y')).split(' ')[0].split('-')
+# 	ts = datetime.datetime(int(ts[0]), int(ts[1]), int(ts[2]))
+# 	t2 = datetime.datetime.now()
+
+# 	return -1 * (ts - t2).days
 
 def avg_RTs(tweets):
 	username, tweets = pickle.loads(tweets)
@@ -271,6 +304,7 @@ def time_diff(tweets):
 def num_hashtags(tweets):
 	username, tweets = pickle.loads(tweets)
 	return sum([len(x.hashtags) for x in tweets])
+
 
 def num_links(tweets):
 	username, tweets = pickle.loads(tweets)
