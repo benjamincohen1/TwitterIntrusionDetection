@@ -36,7 +36,7 @@ Ntp16
 Rp17
 (dp18
 g9
-I411
+I412
 sg10
 Nsg11
 Nsg12
@@ -125,10 +125,10 @@ VBrasilia
 p58
 sS'_followers_count'
 p59
-I154187
+I154248
 sS'_statuses_count'
 p60
-I7868
+I7866
 sg26
 VMon Jul 23 01:54:19 +0000 2012
 p61
@@ -145,10 +145,10 @@ Vhttps://pbs.twimg.com/profile_images/487661069901778944/k7TCATvt_normal.jpeg
 p66
 sS'_friends_count'
 p67
-I36679
+I36681
 sS'_favourites_count'
 p68
-I3750
+I3751
 sS'_utc_offset'
 p69
 I-7200
@@ -325,7 +325,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p118
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -552,7 +552,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p191
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -699,7 +699,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p226
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -788,7 +788,7 @@ Ntp248
 Rp249
 (dp250
 g9
-I503
+I507
 sg10
 Nsg11
 Nsg12
@@ -849,9 +849,9 @@ sg57
 VEastern Time (US & Canada)
 p264
 sg59
-I136953
+I137100
 sg60
-I4461
+I4480
 sg26
 VSat Oct 05 22:15:57 +0000 2013
 p265
@@ -866,7 +866,7 @@ p267
 sg67
 I404
 sg68
-I1912
+I1915
 sg69
 I-18000
 sg70
@@ -893,7 +893,7 @@ sg82
 Vmkmalarkey
 p271
 sg84
-I618
+I619
 sg85
 VMichael Malarkey
 p272
@@ -909,7 +909,7 @@ sg91
 V1A1B1F
 p275
 sbsg93
-I239
+I247
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p276
@@ -1025,7 +1025,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p298
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -1068,7 +1068,7 @@ sg91
 V131516
 p305
 sbsg93
-I239
+I247
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p306
@@ -1107,7 +1107,7 @@ Ntp316
 Rp317
 (dp318
 g9
-I1251
+I1269
 sg10
 Nsg11
 Nsg12
@@ -1177,9 +1177,9 @@ sg57
 VPacific Time (US & Canada)
 p336
 sg59
-I569042
+I569104
 sg60
-I11344
+I11347
 sg26
 VWed Jan 14 20:24:36 +0000 2009
 p337
@@ -1221,7 +1221,7 @@ sg82
 Vjulieplec
 p343
 sg84
-I5412
+I5410
 sg85
 Vjulieplec
 p344
@@ -1235,7 +1235,7 @@ sg91
 VC0DEED
 p346
 sbsg93
-I729
+I746
 sg94
 V<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
 p347
@@ -1351,7 +1351,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p369
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -1394,7 +1394,7 @@ sg91
 V131516
 p376
 sbsg93
-I729
+I746
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p377
@@ -1424,7 +1424,7 @@ Ntp383
 Rp384
 (dp385
 g9
-I966
+I974
 sg10
 Nsg11
 Nsg12
@@ -1529,9 +1529,9 @@ sg57
 VEastern Time (US & Canada)
 p405
 sg59
-I136953
+I137100
 sg60
-I4461
+I4480
 sg26
 VSat Oct 05 22:15:57 +0000 2013
 p406
@@ -1546,7 +1546,7 @@ p408
 sg67
 I404
 sg68
-I1912
+I1915
 sg69
 I-18000
 sg70
@@ -1573,7 +1573,7 @@ sg82
 Vmkmalarkey
 p412
 sg84
-I618
+I619
 sg85
 VMichael Malarkey
 p413
@@ -1589,7 +1589,7 @@ sg91
 V1A1B1F
 p416
 sbsg93
-I515
+I525
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p417
@@ -1745,7 +1745,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p444
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -1788,7 +1788,7 @@ sg91
 V131516
 p451
 sbsg93
-I515
+I525
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p452
@@ -1818,7 +1818,7 @@ Ntp458
 Rp459
 (dp460
 g9
-I6778
+I7005
 sg10
 Nsg11
 Nsg12
@@ -1879,9 +1879,9 @@ sg57
 VPacific Time (US & Canada)
 p474
 sg59
-I5486342
+I5486964
 sg60
-I8082
+I8084
 sg26
 VSun Jul 19 16:36:43 +0000 2009
 p475
@@ -1921,7 +1921,7 @@ sg82
 Viansomerhalder
 p480
 sg84
-I38174
+I38175
 sg85
 Vian somerhalder
 p481
@@ -1937,7 +1937,7 @@ sg91
 VC0DEED
 p484
 sbsg93
-I2814
+I2938
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p485
@@ -2053,7 +2053,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p507
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -2096,7 +2096,7 @@ sg91
 V131516
 p514
 sbsg93
-I2814
+I2938
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p515
@@ -2144,7 +2144,7 @@ Ntp529
 Rp530
 (dp531
 g9
-I447
+I493
 sg10
 Nsg11
 Nsg12
@@ -2264,7 +2264,7 @@ sg57
 VQuito
 p558
 sg59
-I25389
+I25757
 sg60
 I940
 sg26
@@ -2308,7 +2308,7 @@ sg82
 VChristophrWood
 p565
 sg84
-I141
+I143
 sg85
 VChris Wood
 p566
@@ -2324,7 +2324,7 @@ sg91
 V1A1B1F
 p569
 sbsg93
-I310
+I347
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p570
@@ -2493,7 +2493,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p602
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -2536,7 +2536,7 @@ sg91
 V131516
 p609
 sbsg93
-I310
+I347
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p610
@@ -2578,7 +2578,7 @@ Ntp621
 Rp622
 (dp623
 g9
-I408
+I415
 sg10
 Nsg11
 Nsg12
@@ -2683,9 +2683,9 @@ sg57
 VEastern Time (US & Canada)
 p643
 sg59
-I136953
+I137100
 sg60
-I4461
+I4480
 sg26
 VSat Oct 05 22:15:57 +0000 2013
 p644
@@ -2700,7 +2700,7 @@ p646
 sg67
 I404
 sg68
-I1912
+I1915
 sg69
 I-18000
 sg70
@@ -2727,7 +2727,7 @@ sg82
 Vmkmalarkey
 p650
 sg84
-I618
+I619
 sg85
 VMichael Malarkey
 p651
@@ -2743,7 +2743,7 @@ sg91
 V1A1B1F
 p654
 sbsg93
-I156
+I162
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p655
@@ -2899,7 +2899,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p682
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -2942,7 +2942,7 @@ sg91
 V131516
 p689
 sbsg93
-I156
+I162
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p690
@@ -2972,7 +2972,7 @@ Ntp696
 Rp697
 (dp698
 g9
-I543
+I554
 sg10
 Nsg11
 Nsg12
@@ -3033,7 +3033,7 @@ sg57
 VPacific Time (US & Canada)
 p712
 sg59
-I549651
+I549762
 sg60
 I7222
 sg26
@@ -3091,7 +3091,7 @@ sg91
 V022330
 p722
 sbsg93
-I170
+I173
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p723
@@ -3207,7 +3207,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p745
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -3250,7 +3250,7 @@ sg91
 V131516
 p752
 sbsg93
-I170
+I173
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p753
@@ -3280,7 +3280,7 @@ Ntp759
 Rp760
 (dp761
 g9
-I321
+I327
 sg10
 Nsg11
 Nsg12
@@ -3342,7 +3342,7 @@ sg57
 VEastern Time (US & Canada)
 p775
 sg59
-I530013
+I530092
 sg60
 I505
 sg26
@@ -3397,7 +3397,7 @@ sg91
 VC0DEED
 p783
 sbsg93
-I128
+I129
 sg94
 V<a href="http://instagram.com" rel="nofollow">Instagram</a>
 p784
@@ -3526,7 +3526,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p811
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -3569,7 +3569,7 @@ sg91
 V131516
 p818
 sbsg93
-I128
+I129
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p819
@@ -3620,7 +3620,7 @@ Ntp834
 Rp835
 (dp836
 g9
-I472
+I478
 sg10
 Nsg11
 Nsg12
@@ -3782,7 +3782,7 @@ sg57
 VCentral Time (US & Canada)
 p897
 sg59
-I897545
+I897614
 sg60
 I12061
 sg26
@@ -3842,7 +3842,7 @@ sg91
 V9AE4E8
 p908
 sbsg93
-I196
+I197
 sg94
 V<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
 p909
@@ -4077,7 +4077,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p986
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -4120,7 +4120,7 @@ sg91
 V131516
 p993
 sbsg93
-I196
+I197
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p994
@@ -4162,7 +4162,7 @@ Ntp1005
 Rp1006
 (dp1007
 g9
-I221
+I226
 sg10
 Nsg11
 Nsg12
@@ -4224,7 +4224,7 @@ sg57
 VEastern Time (US & Canada)
 p1021
 sg59
-I530013
+I530092
 sg60
 I505
 sg26
@@ -4279,7 +4279,7 @@ sg91
 VC0DEED
 p1029
 sbsg93
-I128
+I130
 sg94
 V<a href="http://instagram.com" rel="nofollow">Instagram</a>
 p1030
@@ -4408,7 +4408,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1057
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -4451,7 +4451,7 @@ sg91
 V131516
 p1064
 sbsg93
-I128
+I130
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1065
@@ -4502,7 +4502,7 @@ Ntp1080
 Rp1081
 (dp1082
 g9
-I567
+I587
 sg10
 Nsg11
 Nsg12
@@ -4573,7 +4573,7 @@ sg57
 VQuito
 p1100
 sg59
-I25389
+I25757
 sg60
 I940
 sg26
@@ -4617,7 +4617,7 @@ sg82
 VChristophrWood
 p1107
 sg84
-I141
+I143
 sg85
 VChris Wood
 p1108
@@ -4633,7 +4633,7 @@ sg91
 V1A1B1F
 p1111
 sbsg93
-I405
+I425
 sg94
 V<a href="http://instagram.com" rel="nofollow">Instagram</a>
 p1112
@@ -4762,7 +4762,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1139
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -4805,7 +4805,7 @@ sg91
 V131516
 p1146
 sbsg93
-I405
+I425
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1147
@@ -4856,7 +4856,7 @@ Ntp1162
 Rp1163
 (dp1164
 g9
-I888
+I900
 sg10
 Nsg11
 Nsg12
@@ -4927,7 +4927,7 @@ sg57
 VPacific Time (US & Canada)
 p1182
 sg59
-I2036429
+I2036605
 sg60
 I14369
 sg26
@@ -4941,7 +4941,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/378800000817280646/67774797d7cbbc44239c29fa8d99847c_normal.jpeg
 p1184
 sg67
-I19741
+I19739
 sg68
 I77
 sg69
@@ -4970,7 +4970,7 @@ sg82
 VKatGraham
 p1188
 sg84
-I9589
+I9591
 sg85
 VKat Graham
 p1189
@@ -4986,7 +4986,7 @@ sg91
 V000000
 p1192
 sbsg93
-I484
+I489
 sg94
 V<a href="http://instagram.com" rel="nofollow">Instagram</a>
 p1193
@@ -5115,7 +5115,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1220
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -5158,7 +5158,7 @@ sg91
 V131516
 p1227
 sbsg93
-I484
+I489
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1228
@@ -5209,7 +5209,7 @@ Ntp1243
 Rp1244
 (dp1245
 g9
-I2734
+I2766
 sg10
 Nsg11
 Nsg12
@@ -5319,9 +5319,9 @@ sg57
 VPacific Time (US & Canada)
 p1268
 sg59
-I569042
+I569104
 sg60
-I11344
+I11347
 sg26
 VWed Jan 14 20:24:36 +0000 2009
 p1269
@@ -5363,7 +5363,7 @@ sg82
 Vjulieplec
 p1275
 sg84
-I5412
+I5410
 sg85
 Vjulieplec
 p1276
@@ -5377,7 +5377,7 @@ sg91
 VC0DEED
 p1278
 sbsg93
-I1424
+I1447
 sg94
 V<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
 p1279
@@ -5533,7 +5533,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1306
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -5576,7 +5576,7 @@ sg91
 V131516
 p1313
 sbsg93
-I1424
+I1447
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1314
@@ -5615,7 +5615,7 @@ Ntp1324
 Rp1325
 (dp1326
 g9
-I381
+I395
 sg10
 Nsg11
 Nsg12
@@ -5729,7 +5729,7 @@ sg57
 VQuito
 p1350
 sg59
-I25389
+I25757
 sg60
 I940
 sg26
@@ -5773,7 +5773,7 @@ sg82
 VChristophrWood
 p1357
 sg84
-I141
+I143
 sg85
 VChris Wood
 p1358
@@ -5789,7 +5789,7 @@ sg91
 V1A1B1F
 p1361
 sbsg93
-I258
+I270
 sg94
 V<a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter for iPad</a>
 p1362
@@ -5945,7 +5945,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1389
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -5988,7 +5988,7 @@ sg91
 V131516
 p1396
 sbsg93
-I258
+I270
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1397
@@ -6027,7 +6027,7 @@ Ntp1407
 Rp1408
 (dp1409
 g9
-I1281
+I1287
 sg10
 Nsg11
 Nsg12
@@ -6097,9 +6097,9 @@ sg57
 VEastern Time (US & Canada)
 p1427
 sg59
-I136953
+I137100
 sg60
-I4461
+I4480
 sg26
 VSat Oct 05 22:15:57 +0000 2013
 p1428
@@ -6114,7 +6114,7 @@ p1430
 sg67
 I404
 sg68
-I1912
+I1915
 sg69
 I-18000
 sg70
@@ -6141,7 +6141,7 @@ sg82
 Vmkmalarkey
 p1434
 sg84
-I618
+I619
 sg85
 VMichael Malarkey
 p1435
@@ -6157,7 +6157,7 @@ sg91
 V1A1B1F
 p1438
 sbsg93
-I756
+I768
 sg94
 V<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
 p1439
@@ -6273,7 +6273,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1461
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -6316,7 +6316,7 @@ sg91
 V131516
 p1468
 sbsg93
-I756
+I768
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1469
@@ -6373,7 +6373,7 @@ Ntp1487
 Rp1488
 (dp1489
 g9
-I1127
+I1130
 sg10
 Nsg11
 Nsg12
@@ -6501,9 +6501,9 @@ sg57
 VEastern Time (US & Canada)
 p1520
 sg59
-I136953
+I137100
 sg60
-I4461
+I4480
 sg26
 VSat Oct 05 22:15:57 +0000 2013
 p1521
@@ -6518,7 +6518,7 @@ p1523
 sg67
 I404
 sg68
-I1912
+I1915
 sg69
 I-18000
 sg70
@@ -6545,7 +6545,7 @@ sg82
 Vmkmalarkey
 p1527
 sg84
-I618
+I619
 sg85
 VMichael Malarkey
 p1528
@@ -6561,7 +6561,7 @@ sg91
 V1A1B1F
 p1531
 sbsg93
-I629
+I637
 sg94
 V<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
 p1532
@@ -6717,7 +6717,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1559
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -6760,7 +6760,7 @@ sg91
 V131516
 p1566
 sbsg93
-I629
+I637
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1567
@@ -6799,7 +6799,7 @@ Ntp1577
 Rp1578
 (dp1579
 g9
-I2374
+I2389
 sg10
 Nsg11
 Nsg12
@@ -6869,7 +6869,7 @@ sg57
 VHawaii
 p1597
 sg59
-I1507047
+I1507268
 sg60
 I1699
 sg26
@@ -6911,7 +6911,7 @@ sg82
 VCandiceAccola
 p1603
 sg84
-I10907
+I10908
 sg85
 VCandice Accola
 p1604
@@ -6927,7 +6927,7 @@ sg91
 VE97F02
 p1607
 sbsg93
-I1134
+I1144
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1608
@@ -7043,7 +7043,7 @@ sg65
 Vhttps://pbs.twimg.com/profile_images/538084965746212865/zHImXlky_normal.jpeg
 p1630
 sg67
-I939
+I938
 sg68
 I1732
 sg69
@@ -7086,7 +7086,7 @@ sg91
 V131516
 p1637
 sbsg93
-I1134
+I1144
 sg94
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1638

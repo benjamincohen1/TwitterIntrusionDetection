@@ -42,7 +42,7 @@ def main():
 		 not_spam = "NoSpam"
 		 os.chdir(spam_directory)
 		 for email in glob.glob("*.pkl"):#ITERATE THROUGH ALL DATA HERE 
-			extract_features(open(email, 'r').read(), feature_funcitons, arff, False, True)
+			extract_features(open(email).read(), feature_funcitons, arff, False, True)
 
 			# extract_features(email+'.pkl', parsed_feature_funcitons, arff, False, True)  
 
@@ -61,10 +61,9 @@ def main():
 
 		 os.chdir('../NoSpam')
 		 for email in glob.glob("*.pkl"):#ITERATE THROUGH ALL DATA HERE 
-			try:
-				extract_features(open(email, 'r').read(), feature_funcitons, arff, True, True)
-			except:
-				print "Failed"
+
+			extract_features(open(email).read(), feature_funcitons, arff, True, True)
+
 			# os.chdir('../DementiaParsed')
 			# extract_parsed_features(open(email).read(), parsed_feature_funcitons, arff, True)
 			# res = helpers.stanford_parse(open(email))

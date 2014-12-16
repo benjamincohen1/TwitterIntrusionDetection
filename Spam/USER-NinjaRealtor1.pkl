@@ -42,7 +42,7 @@ NsS'_current_user_retweet'
 p21
 NsS'_created_at'
 p22
-VSat Dec 13 18:44:18 +0000 2014
+VSun Dec 14 20:04:09 +0000 2014
 p23
 sS'_scopes'
 p24
@@ -69,13 +69,13 @@ sS'_now'
 p34
 NsS'_id_str'
 p35
-V543838842051379200
+V544221326014427136
 p36
 sS'_in_reply_to_status_id'
 p37
 NsS'_text'
 p38
-VWant to know what your home is worth FREE CLICK HERE! http://t.co/do7E6GLIoG
+VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/DqWnjZLy6V
 p39
 sS'_retweeted'
 p40
@@ -114,7 +114,7 @@ p55
 I452
 sS'_statuses_count'
 p56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p57
@@ -213,14 +213,14 @@ Rp97
 (dp98
 S'url'
 p99
-Vhttp://t.co/do7E6GLIoG
+Vhttp://t.co/DqWnjZLy6V
 p100
 sS'expanded_url'
 p101
-Vhttp://soctk.com/2Vy
+Vhttp://soctk.com/2Wh
 p102
 sbasg87
-I543838842051379200
+I544221326014427136
 sbag3
 (g4
 g5
@@ -243,7 +243,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VFri Dec 12 20:03:17 +0000 2014
+VSun Dec 14 18:17:04 +0000 2014
 p108
 sg24
 Nsg25
@@ -259,11 +259,11 @@ Nsg32
 (lp109
 sg34
 Nsg35
-V543496330401021954
+V544194377586081792
 p110
 sg37
 Nsg38
-VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/DqWnjZLy6V
+VWant to know your homes value free CLICK HERE! http://t.co/xDSMIYV0ZT
 p111
 sg40
 I00
@@ -292,7 +292,7 @@ p119
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p120
@@ -363,13 +363,13 @@ Ntp133
 Rp134
 (dp135
 g99
-Vhttp://t.co/DqWnjZLy6V
+Vhttp://t.co/xDSMIYV0ZT
 p136
 sg101
-Vhttp://soctk.com/2Wh
+Vhttp://soctk.com/2VZ
 p137
 sbasg87
-I543496330401021954
+I544194377586081792
 sbag3
 (g4
 g5
@@ -392,7 +392,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VFri Dec 12 18:20:03 +0000 2014
+VSat Dec 13 18:44:18 +0000 2014
 p143
 sg24
 Nsg25
@@ -408,11 +408,11 @@ Nsg32
 (lp144
 sg34
 Nsg35
-V543470350827552768
+V543838842051379200
 p145
 sg37
 Nsg38
-VWant to know your homes value free CLICK HERE! http://t.co/xDSMIYV0ZT
+VWant to know what your home is worth FREE CLICK HERE! http://t.co/do7E6GLIoG
 p146
 sg40
 I00
@@ -441,7 +441,7 @@ p154
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p155
@@ -512,13 +512,13 @@ Ntp168
 Rp169
 (dp170
 g99
-Vhttp://t.co/xDSMIYV0ZT
+Vhttp://t.co/do7E6GLIoG
 p171
 sg101
-Vhttp://soctk.com/2VZ
+Vhttp://soctk.com/2Vy
 p172
 sbasg87
-I543470350827552768
+I543838842051379200
 sbag3
 (g4
 g5
@@ -541,7 +541,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VThu Dec 11 20:06:05 +0000 2014
+VFri Dec 12 20:03:17 +0000 2014
 p178
 sg24
 Nsg25
@@ -557,7 +557,7 @@ Nsg32
 (lp179
 sg34
 Nsg35
-V543134645932797952
+V543496330401021954
 p180
 sg37
 Nsg38
@@ -590,7 +590,7 @@ p189
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p190
@@ -667,7 +667,7 @@ sg101
 Vhttp://soctk.com/2Wh
 p207
 sbasg87
-I543134645932797952
+I543496330401021954
 sbag3
 (g4
 g5
@@ -690,7 +690,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VThu Dec 11 18:42:11 +0000 2014
+VFri Dec 12 18:20:03 +0000 2014
 p213
 sg24
 Nsg25
@@ -706,11 +706,11 @@ Nsg32
 (lp214
 sg34
 Nsg35
-V543113534629236736
+V543470350827552768
 p215
 sg37
 Nsg38
-VWant to know what your home is worth FREE CLICK HERE! http://t.co/do7E6GLIoG
+VWant to know your homes value free CLICK HERE! http://t.co/xDSMIYV0ZT
 p216
 sg40
 I00
@@ -739,7 +739,7 @@ p224
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p225
@@ -810,13 +810,13 @@ Ntp238
 Rp239
 (dp240
 g99
-Vhttp://t.co/do7E6GLIoG
+Vhttp://t.co/xDSMIYV0ZT
 p241
 sg101
-Vhttp://soctk.com/2Vy
+Vhttp://soctk.com/2VZ
 p242
 sbasg87
-I543113534629236736
+I543470350827552768
 sbag3
 (g4
 g5
@@ -839,7 +839,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VThu Dec 11 17:19:02 +0000 2014
+VThu Dec 11 20:06:05 +0000 2014
 p248
 sg24
 Nsg25
@@ -855,16 +855,16 @@ Nsg32
 (lp249
 sg34
 Nsg35
-V543092609741512704
+V543134645932797952
 p250
 sg37
 Nsg38
-Vhttp://t.co/491H0aMZtt http://t.co/WasMjwty23
+VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/DqWnjZLy6V
 p251
 sg40
 I00
 sg41
-Vund
+Ven
 p252
 sg43
 g3
@@ -888,7 +888,7 @@ p259
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p260
@@ -948,7 +948,7 @@ p270
 sbsg90
 I0
 sg91
-V<a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>
+V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
 p271
 sg93
 (lp272
@@ -959,49 +959,37 @@ Ntp273
 Rp274
 (dp275
 g99
-Vhttp://t.co/491H0aMZtt
+Vhttp://t.co/DqWnjZLy6V
 p276
 sg101
-Vhttp://www.searchallproperties.com/listings/2000787/7024-ST.-LOUIS-MISSOURI
+Vhttp://soctk.com/2Wh
 p277
+sbasg87
+I543134645932797952
 sbag3
-(g95
+(g4
 g5
 Ntp278
 Rp279
 (dp280
-g99
-Vhttp://t.co/WasMjwty23
-p281
-sg101
-Vhttp://fb.me/1No67tJK5
-p282
-sbasg87
-I543092609741512704
-sbag3
-(g4
-g5
-Ntp283
-Rp284
-(dp285
 g9
 I0
 sg10
 Nsg11
 Nsg12
-(lp286
+(lp281
 sg14
 I00
 sg15
 Nsg16
 Nsg17
-(lp287
+(lp282
 sg19
 Nsg20
 Nsg21
 Nsg22
-VWed Dec 10 20:11:03 +0000 2014
-p288
+VThu Dec 11 18:42:11 +0000 2014
+p283
 sg24
 Nsg25
 I00
@@ -1013,54 +1001,54 @@ Nsg30
 I00
 sg31
 Nsg32
-(lp289
+(lp284
 sg34
 Nsg35
-V542773508456316929
-p290
+V543113534629236736
+p285
 sg37
 Nsg38
-VWant to know your homes value free CLICK HERE! http://t.co/xDSMIYV0ZT
-p291
+VWant to know what your home is worth FREE CLICK HERE! http://t.co/do7E6GLIoG
+p286
 sg40
 I00
 sg41
 Ven
-p292
+p287
 sg43
 g3
 (g44
 g5
-Ntp293
-Rp294
-(dp295
+Ntp288
+Rp289
+(dp290
 g10
 VMissouri
-p296
+p291
 sg49
 V5E412F
-p297
+p292
 sg51
 Ven
-p298
+p293
 sg53
 VCentral Time (US & Canada)
-p299
+p294
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
-p300
+p295
 sg58
 I00
 sg59
 VYOUR REALTOR FOR LIFE!
-p301
+p296
 sg61
 Vhttps://pbs.twimg.com/profile_images/501759529306959872/LF3kNyYE_normal.jpeg
-p302
+p297
 sg63
 I656
 sg64
@@ -1072,85 +1060,85 @@ Nsg67
 I00
 sg68
 Vhttps://pbs.twimg.com/profile_banners/26670961/1356980187
-p303
+p298
 sg70
 I00
 sg71
 I01
 sg72
 VCE7734
-p304
+p299
 sg74
 I00
 sg75
 I00
 sg76
 Vhttp://pbs.twimg.com/profile_background_images/655824261/x44519636f7df4a920b9929a76726d8e.png
-p305
+p300
 sg78
 VNinjaRealtor1
-p306
+p301
 sg80
 I7
 sg81
 VAmanda Alejandro
-p307
+p302
 sg83
 V78C0A8
-p308
+p303
 sg85
 Vhttp://t.co/7nGnxrIxm2
-p309
+p304
 sg87
 I26670961
 sg88
 VFCEBB6
-p310
+p305
 sbsg90
 I0
 sg91
 V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
-p311
+p306
 sg93
-(lp312
+(lp307
 g3
 (g95
+g5
+Ntp308
+Rp309
+(dp310
+g99
+Vhttp://t.co/do7E6GLIoG
+p311
+sg101
+Vhttp://soctk.com/2Vy
+p312
+sbasg87
+I543113534629236736
+sbag3
+(g4
 g5
 Ntp313
 Rp314
 (dp315
-g99
-Vhttp://t.co/xDSMIYV0ZT
-p316
-sg101
-Vhttp://soctk.com/2VZ
-p317
-sbasg87
-I542773508456316929
-sbag3
-(g4
-g5
-Ntp318
-Rp319
-(dp320
 g9
 I0
 sg10
 Nsg11
 Nsg12
-(lp321
+(lp316
 sg14
 I00
 sg15
 Nsg16
 Nsg17
-(lp322
+(lp317
 sg19
 Nsg20
 Nsg21
 Nsg22
-VTue Dec 09 21:52:05 +0000 2014
-p323
+VThu Dec 11 17:19:02 +0000 2014
+p318
 sg24
 Nsg25
 I00
@@ -1162,54 +1150,54 @@ Nsg30
 I00
 sg31
 Nsg32
-(lp324
+(lp319
 sg34
 Nsg35
-V542436546918363136
-p325
+V543092609741512704
+p320
 sg37
 Nsg38
-VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/qXo5UJD7Uy
-p326
+Vhttp://t.co/491H0aMZtt http://t.co/WasMjwty23
+p321
 sg40
 I00
 sg41
-Ven
-p327
+Vund
+p322
 sg43
 g3
 (g44
 g5
-Ntp328
-Rp329
-(dp330
+Ntp323
+Rp324
+(dp325
 g10
 VMissouri
-p331
+p326
 sg49
 V5E412F
-p332
+p327
 sg51
 Ven
-p333
+p328
 sg53
 VCentral Time (US & Canada)
-p334
+p329
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
-p335
+p330
 sg58
 I00
 sg59
 VYOUR REALTOR FOR LIFE!
-p336
+p331
 sg61
 Vhttps://pbs.twimg.com/profile_images/501759529306959872/LF3kNyYE_normal.jpeg
-p337
+p332
 sg63
 I656
 sg64
@@ -1221,61 +1209,73 @@ Nsg67
 I00
 sg68
 Vhttps://pbs.twimg.com/profile_banners/26670961/1356980187
-p338
+p333
 sg70
 I00
 sg71
 I01
 sg72
 VCE7734
-p339
+p334
 sg74
 I00
 sg75
 I00
 sg76
 Vhttp://pbs.twimg.com/profile_background_images/655824261/x44519636f7df4a920b9929a76726d8e.png
-p340
+p335
 sg78
 VNinjaRealtor1
-p341
+p336
 sg80
 I7
 sg81
 VAmanda Alejandro
-p342
+p337
 sg83
 V78C0A8
-p343
+p338
 sg85
 Vhttp://t.co/7nGnxrIxm2
-p344
+p339
 sg87
 I26670961
 sg88
 VFCEBB6
-p345
+p340
 sbsg90
 I0
 sg91
-V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
-p346
+V<a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>
+p341
 sg93
-(lp347
+(lp342
 g3
+(g95
+g5
+Ntp343
+Rp344
+(dp345
+g99
+Vhttp://t.co/491H0aMZtt
+p346
+sg101
+Vhttp://www.searchallproperties.com/listings/2000787/7024-ST.-LOUIS-MISSOURI
+p347
+sbag3
 (g95
 g5
 Ntp348
 Rp349
 (dp350
 g99
-Vhttp://t.co/qXo5UJD7Uy
+Vhttp://t.co/WasMjwty23
 p351
 sg101
-Vhttp://soctk.com/2Wh
+Vhttp://fb.me/1No67tJK5
 p352
 sbasg87
-I542436546918363136
+I543092609741512704
 sbag3
 (g4
 g5
@@ -1298,7 +1298,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VTue Dec 09 20:28:12 +0000 2014
+VWed Dec 10 20:11:03 +0000 2014
 p358
 sg24
 Nsg25
@@ -1314,11 +1314,11 @@ Nsg32
 (lp359
 sg34
 Nsg35
-V542415439150596096
+V542773508456316929
 p360
 sg37
 Nsg38
-VWant to know what your home is worth FREE CLICK HERE! http://t.co/7K4Us1elnJ
+VWant to know your homes value free CLICK HERE! http://t.co/xDSMIYV0ZT
 p361
 sg40
 I00
@@ -1347,7 +1347,7 @@ p369
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p370
@@ -1418,13 +1418,13 @@ Ntp383
 Rp384
 (dp385
 g99
-Vhttp://t.co/7K4Us1elnJ
+Vhttp://t.co/xDSMIYV0ZT
 p386
 sg101
-Vhttp://soctk.com/2Vy
+Vhttp://soctk.com/2VZ
 p387
 sbasg87
-I542415439150596096
+I542773508456316929
 sbag3
 (g4
 g5
@@ -1447,7 +1447,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VMon Dec 08 20:10:40 +0000 2014
+VTue Dec 09 21:52:05 +0000 2014
 p393
 sg24
 Nsg25
@@ -1463,11 +1463,11 @@ Nsg32
 (lp394
 sg34
 Nsg35
-V542048638701408256
+V542436546918363136
 p395
 sg37
 Nsg38
-VWant to know your homes value free CLICK HERE! http://t.co/xDSMIYV0ZT
+VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/qXo5UJD7Uy
 p396
 sg40
 I00
@@ -1496,7 +1496,7 @@ p404
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p405
@@ -1567,13 +1567,13 @@ Ntp418
 Rp419
 (dp420
 g99
-Vhttp://t.co/xDSMIYV0ZT
+Vhttp://t.co/qXo5UJD7Uy
 p421
 sg101
-Vhttp://soctk.com/2VZ
+Vhttp://soctk.com/2Wh
 p422
 sbasg87
-I542048638701408256
+I542436546918363136
 sbag3
 (g4
 g5
@@ -1596,7 +1596,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 07 21:14:05 +0000 2014
+VTue Dec 09 20:28:12 +0000 2014
 p428
 sg24
 Nsg25
@@ -1612,11 +1612,11 @@ Nsg32
 (lp429
 sg34
 Nsg35
-V541702206878416896
+V542415439150596096
 p430
 sg37
 Nsg38
-VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/DqWnjZLy6V
+VWant to know what your home is worth FREE CLICK HERE! http://t.co/7K4Us1elnJ
 p431
 sg40
 I00
@@ -1645,7 +1645,7 @@ p439
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p440
@@ -1716,13 +1716,13 @@ Ntp453
 Rp454
 (dp455
 g99
-Vhttp://t.co/DqWnjZLy6V
+Vhttp://t.co/7K4Us1elnJ
 p456
 sg101
-Vhttp://soctk.com/2Wh
+Vhttp://soctk.com/2Vy
 p457
 sbasg87
-I541702206878416896
+I542415439150596096
 sbag3
 (g4
 g5
@@ -1745,7 +1745,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 07 19:32:28 +0000 2014
+VMon Dec 08 20:10:40 +0000 2014
 p463
 sg24
 Nsg25
@@ -1761,7 +1761,7 @@ Nsg32
 (lp464
 sg34
 Nsg35
-V541676634039132160
+V542048638701408256
 p465
 sg37
 Nsg38
@@ -1794,7 +1794,7 @@ p474
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p475
@@ -1871,7 +1871,7 @@ sg101
 Vhttp://soctk.com/2VZ
 p492
 sbasg87
-I541676634039132160
+I542048638701408256
 sbag3
 (g4
 g5
@@ -1894,11 +1894,12 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 06 22:47:24 +0000 2014
+VSun Dec 07 21:14:05 +0000 2014
 p498
 sg24
 Nsg25
-Nsg26
+I00
+sg26
 Nsg27
 Nsg28
 Nsg29
@@ -1909,11 +1910,11 @@ Nsg32
 (lp499
 sg34
 Nsg35
-V541363304497569792
+V541702206878416896
 p500
 sg37
 Nsg38
-VYes I am are you looking at my biz pic
+VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/DqWnjZLy6V
 p501
 sg40
 I00
@@ -1942,7 +1943,7 @@ p509
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p510
@@ -2002,36 +2003,48 @@ p520
 sbsg90
 I0
 sg91
-V<a href="http://www.cloudhopper.com/" rel="nofollow">Cloudhopper</a>
+V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
 p521
 sg93
 (lp522
-sg87
-I541363304497569792
-sbag3
-(g4
+g3
+(g95
 g5
 Ntp523
 Rp524
 (dp525
+g99
+Vhttp://t.co/DqWnjZLy6V
+p526
+sg101
+Vhttp://soctk.com/2Wh
+p527
+sbasg87
+I541702206878416896
+sbag3
+(g4
+g5
+Ntp528
+Rp529
+(dp530
 g9
 I0
 sg10
 Nsg11
 Nsg12
-(lp526
+(lp531
 sg14
 I00
 sg15
 Nsg16
 Nsg17
-(lp527
+(lp532
 sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 06 19:44:21 +0000 2014
-p528
+VSun Dec 07 19:32:28 +0000 2014
+p533
 sg24
 Nsg25
 I00
@@ -2043,54 +2056,54 @@ Nsg30
 I00
 sg31
 Nsg32
-(lp529
+(lp534
 sg34
 Nsg35
-V541317236531953664
-p530
+V541676634039132160
+p535
 sg37
 Nsg38
-VWant to know what your home is worth FREE CLICK HERE! http://t.co/do7E6GLIoG
-p531
+VWant to know your homes value free CLICK HERE! http://t.co/xDSMIYV0ZT
+p536
 sg40
 I00
 sg41
 Ven
-p532
+p537
 sg43
 g3
 (g44
 g5
-Ntp533
-Rp534
-(dp535
+Ntp538
+Rp539
+(dp540
 g10
 VMissouri
-p536
+p541
 sg49
 V5E412F
-p537
+p542
 sg51
 Ven
-p538
+p543
 sg53
 VCentral Time (US & Canada)
-p539
+p544
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
-p540
+p545
 sg58
 I00
 sg59
 VYOUR REALTOR FOR LIFE!
-p541
+p546
 sg61
 Vhttps://pbs.twimg.com/profile_images/501759529306959872/LF3kNyYE_normal.jpeg
-p542
+p547
 sg63
 I656
 sg64
@@ -2102,89 +2115,88 @@ Nsg67
 I00
 sg68
 Vhttps://pbs.twimg.com/profile_banners/26670961/1356980187
-p543
+p548
 sg70
 I00
 sg71
 I01
 sg72
 VCE7734
-p544
+p549
 sg74
 I00
 sg75
 I00
 sg76
 Vhttp://pbs.twimg.com/profile_background_images/655824261/x44519636f7df4a920b9929a76726d8e.png
-p545
+p550
 sg78
 VNinjaRealtor1
-p546
+p551
 sg80
 I7
 sg81
 VAmanda Alejandro
-p547
+p552
 sg83
 V78C0A8
-p548
+p553
 sg85
 Vhttp://t.co/7nGnxrIxm2
-p549
+p554
 sg87
 I26670961
 sg88
 VFCEBB6
-p550
+p555
 sbsg90
 I0
 sg91
 V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
-p551
+p556
 sg93
-(lp552
+(lp557
 g3
 (g95
-g5
-Ntp553
-Rp554
-(dp555
-g99
-Vhttp://t.co/do7E6GLIoG
-p556
-sg101
-Vhttp://soctk.com/2Vy
-p557
-sbasg87
-I541317236531953664
-sbag3
-(g4
 g5
 Ntp558
 Rp559
 (dp560
+g99
+Vhttp://t.co/xDSMIYV0ZT
+p561
+sg101
+Vhttp://soctk.com/2VZ
+p562
+sbasg87
+I541676634039132160
+sbag3
+(g4
+g5
+Ntp563
+Rp564
+(dp565
 g9
 I0
 sg10
 Nsg11
 Nsg12
-(lp561
+(lp566
 sg14
 I00
 sg15
 Nsg16
 Nsg17
-(lp562
+(lp567
 sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 06 17:20:31 +0000 2014
-p563
+VSat Dec 06 22:47:24 +0000 2014
+p568
 sg24
 Nsg25
-I00
-sg26
+Nsg26
 Nsg27
 Nsg28
 Nsg29
@@ -2192,54 +2204,54 @@ Nsg30
 I00
 sg31
 Nsg32
-(lp564
+(lp569
 sg34
 Nsg35
-V541281042016251905
-p565
+V541363304497569792
+p570
 sg37
 Nsg38
-VLOOKING TO SELL FOR MORE FREE EVALUATION NO SALES PRESSURE  http://t.co/8SFwB3iSer
-p566
+VYes I am are you looking at my biz pic
+p571
 sg40
 I00
 sg41
 Ven
-p567
+p572
 sg43
 g3
 (g44
 g5
-Ntp568
-Rp569
-(dp570
+Ntp573
+Rp574
+(dp575
 g10
 VMissouri
-p571
+p576
 sg49
 V5E412F
-p572
+p577
 sg51
 Ven
-p573
+p578
 sg53
 VCentral Time (US & Canada)
-p574
+p579
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
-p575
+p580
 sg58
 I00
 sg59
 VYOUR REALTOR FOR LIFE!
-p576
+p581
 sg61
 Vhttps://pbs.twimg.com/profile_images/501759529306959872/LF3kNyYE_normal.jpeg
-p577
+p582
 sg63
 I656
 sg64
@@ -2251,61 +2263,49 @@ Nsg67
 I00
 sg68
 Vhttps://pbs.twimg.com/profile_banners/26670961/1356980187
-p578
+p583
 sg70
 I00
 sg71
 I01
 sg72
 VCE7734
-p579
+p584
 sg74
 I00
 sg75
 I00
 sg76
 Vhttp://pbs.twimg.com/profile_background_images/655824261/x44519636f7df4a920b9929a76726d8e.png
-p580
+p585
 sg78
 VNinjaRealtor1
-p581
+p586
 sg80
 I7
 sg81
 VAmanda Alejandro
-p582
+p587
 sg83
 V78C0A8
-p583
+p588
 sg85
 Vhttp://t.co/7nGnxrIxm2
-p584
+p589
 sg87
 I26670961
 sg88
 VFCEBB6
-p585
+p590
 sbsg90
 I0
 sg91
-V<a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>
-p586
-sg93
-(lp587
-g3
-(g95
-g5
-Ntp588
-Rp589
-(dp590
-g99
-Vhttp://t.co/8SFwB3iSer
+V<a href="http://www.cloudhopper.com/" rel="nofollow">Cloudhopper</a>
 p591
-sg101
-Vhttp://soctk.com/2X4
-p592
-sbasg87
-I541281042016251905
+sg93
+(lp592
+sg87
+I541363304497569792
 sbag3
 (g4
 g5
@@ -2328,7 +2328,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 06 04:03:03 +0000 2014
+VSat Dec 06 19:44:21 +0000 2014
 p598
 sg24
 Nsg25
@@ -2344,11 +2344,11 @@ Nsg32
 (lp599
 sg34
 Nsg35
-V541080354346778625
+V541317236531953664
 p600
 sg37
 Nsg38
-VPOOL TWO TIER DECK GREAT ST. LOUIS LOCATION  http://t.co/Yr87o4CVtT
+VWant to know what your home is worth FREE CLICK HERE! http://t.co/do7E6GLIoG
 p601
 sg40
 I00
@@ -2377,7 +2377,7 @@ p609
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p610
@@ -2437,7 +2437,7 @@ p620
 sbsg90
 I0
 sg91
-V<a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>
+V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
 p621
 sg93
 (lp622
@@ -2448,13 +2448,13 @@ Ntp623
 Rp624
 (dp625
 g99
-Vhttp://t.co/Yr87o4CVtT
+Vhttp://t.co/do7E6GLIoG
 p626
 sg101
-Vhttp://soctk.com/2Xv
+Vhttp://soctk.com/2Vy
 p627
 sbasg87
-I541080354346778625
+I541317236531953664
 sbag3
 (g4
 g5
@@ -2477,7 +2477,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 06 03:54:33 +0000 2014
+VSat Dec 06 17:20:31 +0000 2014
 p633
 sg24
 Nsg25
@@ -2493,11 +2493,11 @@ Nsg32
 (lp634
 sg34
 Nsg35
-V541078213204930560
+V541281042016251905
 p635
 sg37
 Nsg38
-VWHY ARE YOU SEARCHING OTHER SITES FOR HOME STILL. 100 percent accurate and free! http://t.co/ocsuvOj7bJ
+VLOOKING TO SELL FOR MORE FREE EVALUATION NO SALES PRESSURE  http://t.co/8SFwB3iSer
 p636
 sg40
 I00
@@ -2526,7 +2526,7 @@ p644
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p645
@@ -2597,13 +2597,13 @@ Ntp658
 Rp659
 (dp660
 g99
-Vhttp://t.co/ocsuvOj7bJ
+Vhttp://t.co/8SFwB3iSer
 p661
 sg101
-Vhttp://soctk.com/2VU
+Vhttp://soctk.com/2X4
 p662
 sbasg87
-I541078213204930560
+I541281042016251905
 sbag3
 (g4
 g5
@@ -2626,7 +2626,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 06 03:45:31 +0000 2014
+VSat Dec 06 04:03:03 +0000 2014
 p668
 sg24
 Nsg25
@@ -2642,11 +2642,11 @@ Nsg32
 (lp669
 sg34
 Nsg35
-V541075941351751682
+V541080354346778625
 p670
 sg37
 Nsg38
-VSee what our clients are saying... http://t.co/qIknDel2ma
+VPOOL TWO TIER DECK GREAT ST. LOUIS LOCATION  http://t.co/Yr87o4CVtT
 p671
 sg40
 I00
@@ -2675,7 +2675,7 @@ p679
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p680
@@ -2746,13 +2746,13 @@ Ntp693
 Rp694
 (dp695
 g99
-Vhttp://t.co/qIknDel2ma
+Vhttp://t.co/Yr87o4CVtT
 p696
 sg101
-Vhttp://soctk.com/2Wf
+Vhttp://soctk.com/2Xv
 p697
 sbasg87
-I541075941351751682
+I541080354346778625
 sbag3
 (g4
 g5
@@ -2775,7 +2775,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 06 01:52:39 +0000 2014
+VSat Dec 06 03:54:33 +0000 2014
 p703
 sg24
 Nsg25
@@ -2791,11 +2791,11 @@ Nsg32
 (lp704
 sg34
 Nsg35
-V541047536656867329
+V541078213204930560
 p705
 sg37
 Nsg38
-VGET THE HOMES HOT LIST BEFORE THEY HIT THE MARKET NOW FREE! http://t.co/eVUgFNKOsf
+VWHY ARE YOU SEARCHING OTHER SITES FOR HOME STILL. 100 percent accurate and free! http://t.co/ocsuvOj7bJ
 p706
 sg40
 I00
@@ -2824,7 +2824,7 @@ p714
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p715
@@ -2895,13 +2895,13 @@ Ntp728
 Rp729
 (dp730
 g99
-Vhttp://t.co/eVUgFNKOsf
+Vhttp://t.co/ocsuvOj7bJ
 p731
 sg101
-Vhttp://soctk.com/2Xr
+Vhttp://soctk.com/2VU
 p732
 sbasg87
-I541047536656867329
+I541078213204930560
 sbag3
 (g4
 g5
@@ -2924,7 +2924,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VFri Dec 05 21:11:05 +0000 2014
+VSat Dec 06 03:45:31 +0000 2014
 p738
 sg24
 Nsg25
@@ -2940,11 +2940,11 @@ Nsg32
 (lp739
 sg34
 Nsg35
-V540976679402094592
+V541075941351751682
 p740
 sg37
 Nsg38
-VGET A FREE LIST OF BANK OWNED HOMES NOW! http://t.co/DqWnjZLy6V
+VSee what our clients are saying... http://t.co/qIknDel2ma
 p741
 sg40
 I00
@@ -2973,7 +2973,7 @@ p749
 sg55
 I452
 sg56
-I819
+I821
 sg22
 VThu Mar 26 02:49:08 +0000 2009
 p750
@@ -3033,7 +3033,7 @@ p760
 sbsg90
 I0
 sg91
-V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
+V<a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>
 p761
 sg93
 (lp762
@@ -3044,11 +3044,11 @@ Ntp763
 Rp764
 (dp765
 g99
-Vhttp://t.co/DqWnjZLy6V
+Vhttp://t.co/qIknDel2ma
 p766
 sg101
-Vhttp://soctk.com/2Wh
+Vhttp://soctk.com/2Wf
 p767
 sbasg87
-I540976679402094592
+I541075941351751682
 sbaa.

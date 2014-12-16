@@ -11,8 +11,7 @@ import glob
 from nltk.collocations import *
 from nltk import word_tokenize
 from nltk.util import ngrams
-import pickle
-from helpers import getListOfUtterances
+import pickle, re
 
 # trigram_measures = nltk.collocations.TrigramAssocMeasures()
 def build_model():
@@ -20,20 +19,30 @@ def build_model():
     true_unigram_model = {}
     false_model = {}
     false_unigram_model = {}
-    spam_directory = "Controls"
-    not_spam = "Dementia"
+    spam_directory = "Spam"
+    not_spam = "NoSpam"
     os.chdir(spam_directory)
     for email in glob.glob("*.*"):#ITERATE THROUGH ALL DATA HERE 
-        add_to_model(open(email).read(), true_model)
-        add_to_unigram_model(open(email).read(), true_unigram_model)
+        _ , tweet_text  = pickle.loads(open(email).read())
+        tweet_text = ". ".join([x.AsDict()['text'] for x in tweet_text])
+        tweet_text = re.sub(r'[^\x00-\x7F]+',' ', tweet_text)
+
+        add_to_model(tweet_text, true_model)
+        add_to_unigram_model(tweet_text, true_unigram_model)
 
     #print [f for f in true_model if true_model[f] > 10]
-          
+    os.chdir('..')
+
    
-    os.chdir('../Dementia')
+    os.chdir(not_spam)
     for email in glob.glob("*.*"):#ITERATE THROUGH ALL DATA HERE 
-          add_to_model(open(email).read(), false_model)
-          add_to_unigram_model(open(email).read(), false_unigram_model)
+        _ , tweet_text  = pickle.loads(open(email).read())
+        tweet_text = ". ".join([x.AsDict()['text'] for x in tweet_text])
+        tweet_text = re.sub(r'[^\x00-\x7F]+',' ', tweet_text)
+
+        add_to_model(tweet_text, false_model)
+
+        add_to_unigram_model(tweet_text, false_unigram_model)
 
 
           
@@ -48,7 +57,8 @@ def build_model():
 
 
 def add_to_model(txt, model):
-    lines = getListOfUtterances(txt)
+    # lines = getListOfUtterances(txt)
+    lines = txt.split('. ')
     for line in lines:
         words = word_tokenize(line.lower())
         trigrams = ngrams(words, 2)
@@ -61,7 +71,9 @@ def add_to_model(txt, model):
 
                     
 def add_to_unigram_model(txt, model):
-    lines = getListOfUtterances(txt)
+    # lines = getListOfUtterances(txt)
+    lines = txt.split('. ')
+
     for line in lines:
         line = line.lower()
         words = word_tokenize(line.lower())

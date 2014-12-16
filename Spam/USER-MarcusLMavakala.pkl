@@ -42,7 +42,7 @@ NsS'_current_user_retweet'
 p21
 NsS'_created_at'
 p22
-VSun Dec 14 18:48:11 +0000 2014
+VSun Dec 14 20:06:47 +0000 2014
 p23
 sS'_scopes'
 p24
@@ -69,13 +69,13 @@ sS'_now'
 p34
 NsS'_id_str'
 p35
-V544202204958437376
+V544221987938525185
 p36
 sS'_in_reply_to_status_id'
 p37
 NsS'_text'
 p38
-VHow to PROTECT your Personal Credit if your Business FAILS.  http://t.co/JoNyjKKKvP
+VLike your personal FICO credit score, the SBSS score can single-handedly make or break your chances of gettin http://t.co/eCqTOSfh5S
 p39
 sS'_retweeted'
 p40
@@ -114,7 +114,7 @@ p55
 I10054
 sS'_statuses_count'
 p56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p57
@@ -213,14 +213,14 @@ Rp97
 (dp98
 S'url'
 p99
-Vhttp://t.co/JoNyjKKKvP
+Vhttp://t.co/eCqTOSfh5S
 p100
 sS'expanded_url'
 p101
-Vhttp://soctk.com/2TF
+Vhttp://soctk.com/2GL
 p102
 sbasg87
-I544202204958437376
+I544221987938525185
 sbag3
 (g4
 g5
@@ -243,7 +243,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:35:23 +0000 2014
+VSun Dec 14 20:04:02 +0000 2014
 p108
 sg24
 Nsg25
@@ -259,11 +259,11 @@ Nsg32
 (lp109
 sg34
 Nsg35
-V544198985062567936
+V544221294074806272
 p110
 sg37
 Nsg38
-VSBAExpress gives small business borrowers an accelerated turnaround time for SBA review.  http://t.co/gWqh3J1aQT
+VSmall business certifications are like professional certifications: they document a special capability or status that http://t.co/v5UX5zwz4R
 p111
 sg40
 I00
@@ -292,7 +292,7 @@ p119
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p120
@@ -363,13 +363,13 @@ Ntp133
 Rp134
 (dp135
 g99
-Vhttp://t.co/gWqh3J1aQT
+Vhttp://t.co/v5UX5zwz4R
 p136
 sg101
-Vhttp://soctk.com/2MK
+Vhttp://soctk.com/2QB
 p137
 sbasg87
-I544198985062567936
+I544221294074806272
 sbag3
 (g4
 g5
@@ -392,7 +392,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:35:11 +0000 2014
+VSun Dec 14 19:50:26 +0000 2014
 p143
 sg24
 Nsg25
@@ -408,11 +408,11 @@ Nsg32
 (lp144
 sg34
 Nsg35
-V544198936819695616
+V544217870541287424
 p145
 sg37
 Nsg38
-VFinancing your small business ventures is likely one of your biggest concerns as an entrepreneur. http://t.co/eCqTOSfh5S
+VEarly-stage small and medium-sized exporters are usually not eligible for commercial financing without a  http://t.co/eCqTOSfh5S
 p146
 sg40
 I00
@@ -441,7 +441,7 @@ p154
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p155
@@ -518,7 +518,7 @@ sg101
 Vhttp://soctk.com/2GL
 p172
 sbasg87
-I544198936819695616
+I544217870541287424
 sbag3
 (g4
 g5
@@ -541,7 +541,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:32:03 +0000 2014
+VSun Dec 14 19:50:25 +0000 2014
 p178
 sg24
 Nsg25
@@ -557,11 +557,11 @@ Nsg32
 (lp179
 sg34
 Nsg35
-V544198148286345216
+V544217867424899072
 p180
 sg37
 Nsg38
-VThese programs include low-interest loans, venture capital, and scientific and economic development grants. http://t.co/gWqh3J1aQT
+VFinally Learn the difference between Business, Corporate, &amp; Commercial Credit.  http://t.co/JoNyjKKKvP
 p181
 sg40
 I00
@@ -590,7 +590,7 @@ p189
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p190
@@ -661,13 +661,13 @@ Ntp203
 Rp204
 (dp205
 g99
-Vhttp://t.co/gWqh3J1aQT
+Vhttp://t.co/JoNyjKKKvP
 p206
 sg101
-Vhttp://soctk.com/2MK
+Vhttp://soctk.com/2TF
 p207
 sbasg87
-I544198148286345216
+I544217867424899072
 sbag3
 (g4
 g5
@@ -690,7 +690,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:26:09 +0000 2014
+VSun Dec 14 19:46:31 +0000 2014
 p213
 sg24
 Nsg25
@@ -706,11 +706,11 @@ Nsg32
 (lp214
 sg34
 Nsg35
-V544196663020376064
+V544216885026648064
 p215
 sg37
 Nsg38
-VSmall Business Investment Companies are privately owned and managed investment funds. They\u2019re licensed and regulated http://t.co/eCqTOSfh5S
+VSBSS scores can be used for term loans and lines of credit for amounts up to $1 million. http://t.co/eCqTOSfh5S
 p216
 sg40
 I00
@@ -739,7 +739,7 @@ p224
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p225
@@ -816,7 +816,7 @@ sg101
 Vhttp://soctk.com/2GL
 p242
 sbasg87
-I544196663020376064
+I544216885026648064
 sbag3
 (g4
 g5
@@ -839,7 +839,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:20:49 +0000 2014
+VSun Dec 14 19:46:29 +0000 2014
 p248
 sg24
 Nsg25
@@ -855,11 +855,11 @@ Nsg32
 (lp249
 sg34
 Nsg35
-V544195317629845504
+V544216878357680128
 p250
 sg37
 Nsg38
-VFinally Learn the difference between Business, Corporate, &amp; Commercial Credit.  http://t.co/kpOpDaxmBm
+VFinally learn how to Separate you Personal Credit from Your Business Credit. http://t.co/JoNyjKKKvP
 p251
 sg40
 I00
@@ -888,7 +888,7 @@ p259
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p260
@@ -946,7 +946,7 @@ sg88
 V0099B9
 p270
 sbsg90
-I1
+I0
 sg91
 V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
 p271
@@ -959,13 +959,13 @@ Ntp273
 Rp274
 (dp275
 g99
-Vhttp://t.co/kpOpDaxmBm
+Vhttp://t.co/JoNyjKKKvP
 p276
 sg101
-Vhttp://soctk.com/2RO
+Vhttp://soctk.com/2TF
 p277
 sbasg87
-I544195317629845504
+I544216878357680128
 sbag3
 (g4
 g5
@@ -988,7 +988,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:20:48 +0000 2014
+VSun Dec 14 19:30:24 +0000 2014
 p283
 sg24
 Nsg25
@@ -1004,11 +1004,11 @@ Nsg32
 (lp284
 sg34
 Nsg35
-V544195316145455104
+V544212831076646912
 p285
 sg37
 Nsg38
-VFinally Learn the difference between Business, Corporate, &amp; Commercial Credit.  http://t.co/b6rRv9bKFi
+VSBA small business loans range from about $5,000 (microloans) to $5 million (largest guaranteed) with the average  http://t.co/eCqTOSfh5S
 p286
 sg40
 I00
@@ -1037,7 +1037,7 @@ p294
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p295
@@ -1108,13 +1108,13 @@ Ntp308
 Rp309
 (dp310
 g99
-Vhttp://t.co/b6rRv9bKFi
+Vhttp://t.co/eCqTOSfh5S
 p311
 sg101
-Vhttp://soctk.com/2RO
+Vhttp://soctk.com/2GL
 p312
 sbasg87
-I544195316145455104
+I544212831076646912
 sbag3
 (g4
 g5
@@ -1137,7 +1137,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:17:12 +0000 2014
+VSun Dec 14 19:20:12 +0000 2014
 p318
 sg24
 Nsg25
@@ -1153,11 +1153,11 @@ Nsg32
 (lp319
 sg34
 Nsg35
-V544194411467661312
+V544210264498135041
 p320
 sg37
 Nsg38
-VReal Estate may be financed up to 25 years. http://t.co/gWqh3J1aQT
+VGood credit is the lifeline of your business. http://t.co/JoNyjKKKvP
 p321
 sg40
 I00
@@ -1186,7 +1186,7 @@ p329
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p330
@@ -1257,13 +1257,13 @@ Ntp343
 Rp344
 (dp345
 g99
-Vhttp://t.co/gWqh3J1aQT
+Vhttp://t.co/JoNyjKKKvP
 p346
 sg101
-Vhttp://soctk.com/2MK
+Vhttp://soctk.com/2TF
 p347
 sbasg87
-I544194411467661312
+I544210264498135041
 sbag3
 (g4
 g5
@@ -1286,7 +1286,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:12:47 +0000 2014
+VSun Dec 14 19:13:59 +0000 2014
 p353
 sg24
 Nsg25
@@ -1302,11 +1302,11 @@ Nsg32
 (lp354
 sg34
 Nsg35
-V544193299104669696
+V544208700257234944
 p355
 sg37
 Nsg38
-VFederal, state and local governments offer a wide range of financing programs to help small businesses start and gr http://t.co/eCqTOSfh5S
+VBizNews: French cabs to block Paris roads in Uber taxi war: Paris (AFP) - Parisia... http://t.co/SxTdyVxjvC Visit http://t.co/mNH6f08KQL
 p356
 sg40
 I00
@@ -1335,7 +1335,7 @@ p364
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p365
@@ -1395,7 +1395,7 @@ p375
 sbsg90
 I0
 sg91
-V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
+V<a href="http://twitterfeed.com" rel="nofollow">twitterfeed</a>
 p376
 sg93
 (lp377
@@ -1406,37 +1406,49 @@ Ntp378
 Rp379
 (dp380
 g99
-Vhttp://t.co/eCqTOSfh5S
+Vhttp://t.co/SxTdyVxjvC
 p381
 sg101
-Vhttp://soctk.com/2GL
+Vhttp://bit.ly/1GDMl4j
 p382
-sbasg87
-I544193299104669696
 sbag3
-(g4
+(g95
 g5
 Ntp383
 Rp384
 (dp385
+g99
+Vhttp://t.co/mNH6f08KQL
+p386
+sg101
+Vhttp://BizbanQ.com
+p387
+sbasg87
+I544208700257234944
+sbag3
+(g4
+g5
+Ntp388
+Rp389
+(dp390
 g9
 I0
 sg10
 Nsg11
 Nsg12
-(lp386
+(lp391
 sg14
 I00
 sg15
 Nsg16
 Nsg17
-(lp387
+(lp392
 sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:12:47 +0000 2014
-p388
+VSun Dec 14 19:05:04 +0000 2014
+p393
 sg24
 Nsg25
 I00
@@ -1448,54 +1460,54 @@ Nsg30
 I00
 sg31
 Nsg32
-(lp389
+(lp394
 sg34
 Nsg35
-V544193296000905216
-p390
+V544206456254652416
+p395
 sg37
 Nsg38
-VLearn How to get APPROVED on Business Credit Applications. http://t.co/JoNyjKKKvP
-p391
+VWhat criteria do banks look for in making small business loans? http://t.co/eCqTOSfh5S
+p396
 sg40
 I00
 sg41
 Ven
-p392
+p397
 sg43
 g3
 (g44
 g5
-Ntp393
-Rp394
-(dp395
+Ntp398
+Rp399
+(dp400
 g10
 VLos Angeles, CA, USA
-p396
+p401
 sg49
 V3C3940
-p397
+p402
 sg51
 Ven
-p398
+p403
 sg53
 VPacific Time (US & Canada)
-p399
+p404
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
-p400
+p405
 sg58
 I00
 sg59
 VI Help Small Business Owners Get The Money They Need To Make More Money,Get more Customers,and Enjoy More Time OFF\u2122.I LOVE MY BIZ,LIFE,GIRLFRIEND,FAMILY&GOD.
-p401
+p406
 sg61
 Vhttps://pbs.twimg.com/profile_images/475383214253420544/meCxzsOD_normal.jpeg
-p402
+p407
 sg63
 I8952
 sg64
@@ -1507,85 +1519,85 @@ Nsg67
 I00
 sg68
 Vhttps://pbs.twimg.com/profile_banners/29510346/1397679786
-p403
+p408
 sg70
 I00
 sg71
 I00
 sg72
 V0099B9
-p404
+p409
 sg74
 I01
 sg75
 I00
 sg76
 Vhttp://abs.twimg.com/images/themes/theme4/bg.gif
-p405
+p410
 sg78
 VMarcusLMavakala
-p406
+p411
 sg80
 I76
 sg81
 VMarcus Mavakala
-p407
+p412
 sg83
 V95E8EC
-p408
+p413
 sg85
 Vhttp://t.co/9bglVciBVm
-p409
+p414
 sg87
 I29510346
 sg88
 V0099B9
-p410
+p415
 sbsg90
 I0
 sg91
 V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
-p411
+p416
 sg93
-(lp412
+(lp417
 g3
 (g95
-g5
-Ntp413
-Rp414
-(dp415
-g99
-Vhttp://t.co/JoNyjKKKvP
-p416
-sg101
-Vhttp://soctk.com/2TF
-p417
-sbasg87
-I544193296000905216
-sbag3
-(g4
 g5
 Ntp418
 Rp419
 (dp420
+g99
+Vhttp://t.co/eCqTOSfh5S
+p421
+sg101
+Vhttp://soctk.com/2GL
+p422
+sbasg87
+I544206456254652416
+sbag3
+(g4
+g5
+Ntp423
+Rp424
+(dp425
 g9
 I0
 sg10
 Nsg11
 Nsg12
-(lp421
+(lp426
 sg14
 I00
 sg15
 Nsg16
 Nsg17
-(lp422
+(lp427
 sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:12:36 +0000 2014
-p423
+VSun Dec 14 19:01:10 +0000 2014
+p428
 sg24
 Nsg25
 I00
@@ -1597,54 +1609,54 @@ Nsg30
 I00
 sg31
 Nsg32
-(lp424
+(lp429
 sg34
 Nsg35
-V544193252422086657
-p425
+V544205473990594560
+p430
 sg37
 Nsg38
-VMoney is the lifeline of any business, so whether you\u2019re starting a business or running an existing one, securing fi http://t.co/eCqTOSfh5S
-p426
+VWhat does SBA offer to small business owners? The programs are many and varied, and the qualifications f http://t.co/eCqTOSfh5S
+p431
 sg40
 I00
 sg41
 Ven
-p427
+p432
 sg43
 g3
 (g44
 g5
-Ntp428
-Rp429
-(dp430
+Ntp433
+Rp434
+(dp435
 g10
 VLos Angeles, CA, USA
-p431
+p436
 sg49
 V3C3940
-p432
+p437
 sg51
 Ven
-p433
+p438
 sg53
 VPacific Time (US & Canada)
-p434
+p439
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
-p435
+p440
 sg58
 I00
 sg59
 VI Help Small Business Owners Get The Money They Need To Make More Money,Get more Customers,and Enjoy More Time OFF\u2122.I LOVE MY BIZ,LIFE,GIRLFRIEND,FAMILY&GOD.
-p436
+p441
 sg61
 Vhttps://pbs.twimg.com/profile_images/475383214253420544/meCxzsOD_normal.jpeg
-p437
+p442
 sg63
 I8952
 sg64
@@ -1656,85 +1668,85 @@ Nsg67
 I00
 sg68
 Vhttps://pbs.twimg.com/profile_banners/29510346/1397679786
-p438
+p443
 sg70
 I00
 sg71
 I00
 sg72
 V0099B9
-p439
+p444
 sg74
 I01
 sg75
 I00
 sg76
 Vhttp://abs.twimg.com/images/themes/theme4/bg.gif
-p440
+p445
 sg78
 VMarcusLMavakala
-p441
+p446
 sg80
 I76
 sg81
 VMarcus Mavakala
-p442
+p447
 sg83
 V95E8EC
-p443
+p448
 sg85
 Vhttp://t.co/9bglVciBVm
-p444
+p449
 sg87
 I29510346
 sg88
 V0099B9
-p445
+p450
 sbsg90
 I0
 sg91
 V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
-p446
+p451
 sg93
-(lp447
+(lp452
 g3
 (g95
-g5
-Ntp448
-Rp449
-(dp450
-g99
-Vhttp://t.co/eCqTOSfh5S
-p451
-sg101
-Vhttp://soctk.com/2GL
-p452
-sbasg87
-I544193252422086657
-sbag3
-(g4
 g5
 Ntp453
 Rp454
 (dp455
+g99
+Vhttp://t.co/eCqTOSfh5S
+p456
+sg101
+Vhttp://soctk.com/2GL
+p457
+sbasg87
+I544205473990594560
+sbag3
+(g4
+g5
+Ntp458
+Rp459
+(dp460
 g9
 I0
 sg10
 Nsg11
 Nsg12
-(lp456
+(lp461
 sg14
 I00
 sg15
 Nsg16
 Nsg17
-(lp457
+(lp462
 sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:12:34 +0000 2014
-p458
+VSun Dec 14 19:01:04 +0000 2014
+p463
 sg24
 Nsg25
 I00
@@ -1746,54 +1758,54 @@ Nsg30
 I00
 sg31
 Nsg32
-(lp459
+(lp464
 sg34
 Nsg35
-V544193243408125953
-p460
+V544205449340661760
+p465
 sg37
 Nsg38
-VBizNews: Putin's Popularity Could Change Faster Than Many Expect: A GOVERNMENT te... http://t.co/3Mk5Pagc0s Visit http://t.co/mNH6f08KQL
-p461
+VLearn the 5 Things Corporate Credit \u201cGuru\u2019s\u201d ALWAYS do WRONG.  http://t.co/JoNyjKKKvP
+p466
 sg40
 I00
 sg41
 Ven
-p462
+p467
 sg43
 g3
 (g44
 g5
-Ntp463
-Rp464
-(dp465
+Ntp468
+Rp469
+(dp470
 g10
 VLos Angeles, CA, USA
-p466
+p471
 sg49
 V3C3940
-p467
+p472
 sg51
 Ven
-p468
+p473
 sg53
 VPacific Time (US & Canada)
-p469
+p474
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
-p470
+p475
 sg58
 I00
 sg59
 VI Help Small Business Owners Get The Money They Need To Make More Money,Get more Customers,and Enjoy More Time OFF\u2122.I LOVE MY BIZ,LIFE,GIRLFRIEND,FAMILY&GOD.
-p471
+p476
 sg61
 Vhttps://pbs.twimg.com/profile_images/475383214253420544/meCxzsOD_normal.jpeg
-p472
+p477
 sg63
 I8952
 sg64
@@ -1805,73 +1817,61 @@ Nsg67
 I00
 sg68
 Vhttps://pbs.twimg.com/profile_banners/29510346/1397679786
-p473
+p478
 sg70
 I00
 sg71
 I00
 sg72
 V0099B9
-p474
+p479
 sg74
 I01
 sg75
 I00
 sg76
 Vhttp://abs.twimg.com/images/themes/theme4/bg.gif
-p475
+p480
 sg78
 VMarcusLMavakala
-p476
+p481
 sg80
 I76
 sg81
 VMarcus Mavakala
-p477
+p482
 sg83
 V95E8EC
-p478
+p483
 sg85
 Vhttp://t.co/9bglVciBVm
-p479
+p484
 sg87
 I29510346
 sg88
 V0099B9
-p480
+p485
 sbsg90
 I0
 sg91
-V<a href="http://twitterfeed.com" rel="nofollow">twitterfeed</a>
-p481
-sg93
-(lp482
-g3
-(g95
-g5
-Ntp483
-Rp484
-(dp485
-g99
-Vhttp://t.co/3Mk5Pagc0s
+V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
 p486
-sg101
-Vhttp://bit.ly/1BDp3KT
-p487
-sbag3
+sg93
+(lp487
+g3
 (g95
 g5
 Ntp488
 Rp489
 (dp490
 g99
-Vhttp://t.co/mNH6f08KQL
+Vhttp://t.co/JoNyjKKKvP
 p491
 sg101
-Vhttp://BizbanQ.com
+Vhttp://soctk.com/2TF
 p492
 sbasg87
-I544193243408125953
+I544205449340661760
 sbag3
 (g4
 g5
@@ -1879,7 +1879,7 @@ Ntp493
 Rp494
 (dp495
 g9
-I0
+I1
 sg10
 Nsg11
 Nsg12
@@ -1894,7 +1894,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 18:02:06 +0000 2014
+VSun Dec 14 19:00:03 +0000 2014
 p498
 sg24
 Nsg25
@@ -1910,11 +1910,11 @@ Nsg32
 (lp499
 sg34
 Nsg35
-V544190608408326145
+V544205190912802818
 p500
 sg37
 Nsg38
-VThe 504 program works by distributing the loan among three parties.  http://t.co/eCqTOSfh5S
+VCourage is what it takes to stand up and speak; courage is also what it takes to sit down and listen http://t.co/oukMRY4OCz
 p501
 sg40
 I00
@@ -1943,7 +1943,7 @@ p509
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p510
@@ -2014,13 +2014,13 @@ Ntp523
 Rp524
 (dp525
 g99
-Vhttp://t.co/eCqTOSfh5S
+Vhttp://t.co/oukMRY4OCz
 p526
 sg101
-Vhttp://soctk.com/2GL
+Vhttp://soctk.com/2Gr
 p527
 sbasg87
-I544190608408326145
+I544205190912802818
 sbag3
 (g4
 g5
@@ -2043,7 +2043,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 17:46:10 +0000 2014
+VSun Dec 14 18:48:11 +0000 2014
 p533
 sg24
 Nsg25
@@ -2059,11 +2059,11 @@ Nsg32
 (lp534
 sg34
 Nsg35
-V544186599534510081
+V544202204958437376
 p535
 sg37
 Nsg38
-VFocus on how to be social, not on how to do social.ù - Jay Baer  http://t.co/oukMRY4OCz
+VHow to PROTECT your Personal Credit if your Business FAILS.  http://t.co/JoNyjKKKvP
 p536
 sg40
 I00
@@ -2092,7 +2092,7 @@ p544
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p545
@@ -2163,13 +2163,13 @@ Ntp558
 Rp559
 (dp560
 g99
-Vhttp://t.co/oukMRY4OCz
+Vhttp://t.co/JoNyjKKKvP
 p561
 sg101
-Vhttp://soctk.com/2Gr
+Vhttp://soctk.com/2TF
 p562
 sbasg87
-I544186599534510081
+I544202204958437376
 sbag3
 (g4
 g5
@@ -2192,7 +2192,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 17:36:14 +0000 2014
+VSun Dec 14 18:35:23 +0000 2014
 p568
 sg24
 Nsg25
@@ -2208,11 +2208,11 @@ Nsg32
 (lp569
 sg34
 Nsg35
-V544184098290688001
+V544198985062567936
 p570
 sg37
 Nsg38
-VHow to make your Business \u201cFUNDABLE\u201d to easily qualify for loans.  http://t.co/JoNyjKKKvP
+VSBAExpress gives small business borrowers an accelerated turnaround time for SBA review.  http://t.co/gWqh3J1aQT
 p571
 sg40
 I00
@@ -2241,7 +2241,7 @@ p579
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p580
@@ -2312,13 +2312,13 @@ Ntp593
 Rp594
 (dp595
 g99
-Vhttp://t.co/JoNyjKKKvP
+Vhttp://t.co/gWqh3J1aQT
 p596
 sg101
-Vhttp://soctk.com/2TF
+Vhttp://soctk.com/2MK
 p597
 sbasg87
-I544184098290688001
+I544198985062567936
 sbag3
 (g4
 g5
@@ -2341,7 +2341,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 17:24:10 +0000 2014
+VSun Dec 14 18:35:11 +0000 2014
 p603
 sg24
 Nsg25
@@ -2357,11 +2357,11 @@ Nsg32
 (lp604
 sg34
 Nsg35
-V544181061367128064
+V544198936819695616
 p605
 sg37
 Nsg38
-VThere is nothing so fatal to character as half-finished tasks.ù - David Lloyd George http://t.co/oukMRY4OCz
+VFinancing your small business ventures is likely one of your biggest concerns as an entrepreneur. http://t.co/eCqTOSfh5S
 p606
 sg40
 I00
@@ -2390,7 +2390,7 @@ p614
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p615
@@ -2461,13 +2461,13 @@ Ntp628
 Rp629
 (dp630
 g99
-Vhttp://t.co/oukMRY4OCz
+Vhttp://t.co/eCqTOSfh5S
 p631
 sg101
-Vhttp://soctk.com/2Gr
+Vhttp://soctk.com/2GL
 p632
 sbasg87
-I544181061367128064
+I544198936819695616
 sbag3
 (g4
 g5
@@ -2490,7 +2490,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 17:14:26 +0000 2014
+VSun Dec 14 18:32:03 +0000 2014
 p638
 sg24
 Nsg25
@@ -2506,11 +2506,11 @@ Nsg32
 (lp639
 sg34
 Nsg35
-V544178615278391296
+V544198148286345216
 p640
 sg37
 Nsg38
-VIT'S HERE! All new social conversion platform for building business fast.   http://t.co/eCqTOSfh5S
+VThese programs include low-interest loans, venture capital, and scientific and economic development grants. http://t.co/gWqh3J1aQT
 p641
 sg40
 I00
@@ -2539,7 +2539,7 @@ p649
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p650
@@ -2610,13 +2610,13 @@ Ntp663
 Rp664
 (dp665
 g99
-Vhttp://t.co/eCqTOSfh5S
+Vhttp://t.co/gWqh3J1aQT
 p666
 sg101
-Vhttp://soctk.com/2GL
+Vhttp://soctk.com/2MK
 p667
 sbasg87
-I544178615278391296
+I544198148286345216
 sbag3
 (g4
 g5
@@ -2639,7 +2639,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 17:14:26 +0000 2014
+VSun Dec 14 18:26:09 +0000 2014
 p673
 sg24
 Nsg25
@@ -2655,11 +2655,11 @@ Nsg32
 (lp674
 sg34
 Nsg35
-V544178614565367809
+V544196663020376064
 p675
 sg37
 Nsg38
-VI am opposed to millionaires, but it would be dangerous to offer me the position.  - Mark Twain  http://t.co/eCqTOSfh5S
+VSmall Business Investment Companies are privately owned and managed investment funds. They\u2019re licensed and regulated http://t.co/eCqTOSfh5S
 p676
 sg40
 I00
@@ -2688,7 +2688,7 @@ p684
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p685
@@ -2765,7 +2765,7 @@ sg101
 Vhttp://soctk.com/2GL
 p702
 sbasg87
-I544178614565367809
+I544196663020376064
 sbag3
 (g4
 g5
@@ -2788,7 +2788,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 17:10:37 +0000 2014
+VSun Dec 14 18:20:49 +0000 2014
 p708
 sg24
 Nsg25
@@ -2804,11 +2804,11 @@ Nsg32
 (lp709
 sg34
 Nsg35
-V544177652584943617
+V544195317629845504
 p710
 sg37
 Nsg38
-VHow to Build Business Credit the Right Way, the first time!  http://t.co/JoNyjKKKvP
+VFinally Learn the difference between Business, Corporate, &amp; Commercial Credit.  http://t.co/kpOpDaxmBm
 p711
 sg40
 I00
@@ -2837,7 +2837,7 @@ p719
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p720
@@ -2895,7 +2895,7 @@ sg88
 V0099B9
 p730
 sbsg90
-I0
+I1
 sg91
 V<a href="http://www.upsidesocialtoolkit.com" rel="nofollow">Social Network Toolkit</a>
 p731
@@ -2908,13 +2908,13 @@ Ntp733
 Rp734
 (dp735
 g99
-Vhttp://t.co/JoNyjKKKvP
+Vhttp://t.co/kpOpDaxmBm
 p736
 sg101
-Vhttp://soctk.com/2TF
+Vhttp://soctk.com/2RO
 p737
 sbasg87
-I544177652584943617
+I544195317629845504
 sbag3
 (g4
 g5
@@ -2937,7 +2937,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 17:10:24 +0000 2014
+VSun Dec 14 18:20:48 +0000 2014
 p743
 sg24
 Nsg25
@@ -2953,11 +2953,11 @@ Nsg32
 (lp744
 sg34
 Nsg35
-V544177598847537153
+V544195316145455104
 p745
 sg37
 Nsg38
-VHow to Open the Floodgates of Funding Opportunities for you.  http://t.co/JoNyjKKKvP
+VFinally Learn the difference between Business, Corporate, &amp; Commercial Credit.  http://t.co/b6rRv9bKFi
 p746
 sg40
 I00
@@ -2986,7 +2986,7 @@ p754
 sg55
 I10054
 sg56
-I17051
+I17064
 sg22
 VTue Apr 07 18:36:44 +0000 2009
 p755
@@ -3057,11 +3057,11 @@ Ntp768
 Rp769
 (dp770
 g99
-Vhttp://t.co/JoNyjKKKvP
+Vhttp://t.co/b6rRv9bKFi
 p771
 sg101
-Vhttp://soctk.com/2TF
+Vhttp://soctk.com/2RO
 p772
 sbasg87
-I544177598847537153
+I544195316145455104
 sbaa.

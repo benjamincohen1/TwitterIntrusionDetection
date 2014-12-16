@@ -36,7 +36,7 @@ Ntp16
 Rp17
 (dp18
 g9
-I428
+I513
 sg10
 Nsg11
 Nsg12
@@ -218,10 +218,10 @@ VArizona
 p102
 sS'_followers_count'
 p103
-I938
+I942
 sS'_statuses_count'
 p104
-I8782
+I8783
 sg70
 VThu Apr 12 05:49:02 +0000 2012
 p105
@@ -241,7 +241,7 @@ p111
 I570
 sS'_favourites_count'
 p112
-I5288
+I5290
 sS'_utc_offset'
 p113
 I-25200
@@ -302,7 +302,7 @@ VC6E2EE
 p137
 sbsS'_retweet_count'
 p138
-I628
+I722
 sS'_source'
 p139
 V<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
@@ -572,7 +572,7 @@ sg136
 V001329
 p221
 sbsg138
-I628
+I722
 sg139
 V<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
 p222
@@ -664,7 +664,7 @@ sg101
 VAlaska
 p244
 sg103
-I16255
+I16261
 sg104
 I884
 sg70
@@ -1451,7 +1451,7 @@ Ntp461
 Rp462
 (dp463
 g9
-I7771
+I7776
 sg10
 Nsg11
 Nsg12
@@ -1510,7 +1510,7 @@ Ven
 p476
 sg101
 Nsg103
-I1392
+I1393
 sg104
 I9636
 sg70
@@ -1567,7 +1567,7 @@ sg136
 V352726
 p486
 sbsg138
-I8856
+I8864
 sg139
 V<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
 p487
@@ -1727,7 +1727,7 @@ sg136
 V001329
 p516
 sbsg138
-I8856
+I8864
 sg139
 V<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
 p517
@@ -2772,7 +2772,7 @@ Ntp811
 Rp812
 (dp813
 g9
-I4875
+I4877
 sg10
 Nsg11
 Nsg12
@@ -2944,7 +2944,7 @@ sg101
 VPacific Time (US & Canada)
 p879
 sg103
-I6659274
+I6660350
 sg104
 I550
 sg70
@@ -2988,7 +2988,7 @@ sg126
 VAndroid
 p886
 sg128
-I19332
+I19337
 sg129
 VAndroid
 p887
@@ -3004,7 +3004,7 @@ sg136
 VA5C639
 p890
 sbsg138
-I8260
+I8257
 sg139
 V<a href="http://www.wildfireapp.com/?utm_source=Twitter&utm_medium=Tweet&utm_campaign=via%2BWildfire%2BSuite" rel="nofollow">Wildfire Suite</a>
 p891
@@ -3271,7 +3271,7 @@ sg136
 V001329
 p970
 sbsg138
-I8260
+I8257
 sg139
 V<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
 p971
@@ -3981,7 +3981,7 @@ sg101
 VHong Kong
 p1201
 sg103
-I236
+I235
 sg104
 I5537
 sg70
@@ -4649,7 +4649,7 @@ sg101
 VPacific Time (US & Canada)
 p1368
 sg103
-I1326001
+I1326254
 sg104
 I883
 sg70
@@ -4693,7 +4693,7 @@ sg126
 VAndroidDev
 p1375
 sg128
-I14567
+I14572
 sg129
 VAndroid Developers
 p1376
@@ -5118,9 +5118,9 @@ sg101
 VGreenland
 p1491
 sg103
-I37634
+I37636
 sg104
-I22866
+I22872
 sg70
 VTue Aug 31 11:25:55 +0000 2010
 p1492
@@ -5614,9 +5614,9 @@ sg101
 VAmsterdam
 p1614
 sg103
-I14322
+I14332
 sg104
-I2794
+I2797
 sg70
 VFri Jul 19 19:32:11 +0000 2013
 p1615
@@ -5980,7 +5980,7 @@ sg101
 VHong Kong
 p1689
 sg103
-I236
+I235
 sg104
 I5537
 sg70
@@ -6807,7 +6807,7 @@ sg101
 VPacific Time (US & Canada)
 p1896
 sg103
-I205563
+I205619
 sg104
 I6523
 sg70
@@ -6849,7 +6849,7 @@ sg126
 Vjava
 p1902
 sg128
-I3651
+I3653
 sg129
 VJava
 p1903
@@ -7380,7 +7380,7 @@ sg101
 VPacific Time (US & Canada)
 p2068
 sg103
-I1682
+I1681
 sg104
 I43480
 sg70
@@ -7891,9 +7891,9 @@ sg101
 VPacific Time (US & Canada)
 p2226
 sg103
-I461359
+I461388
 sg104
-I5341
+I5345
 sg70
 VFri Apr 13 16:59:37 +0000 2007
 p2227
@@ -7906,9 +7906,9 @@ sg109
 Vhttps://pbs.twimg.com/profile_images/479769268104359937/VvbTc1T6_normal.png
 p2229
 sg111
-I387
+I388
 sg112
-I572
+I573
 sg113
 I-28800
 sg114
@@ -7933,7 +7933,7 @@ sg126
 VOatmeal
 p2232
 sg128
-I16407
+I16403
 sg129
 VMatthew Inman
 p2233

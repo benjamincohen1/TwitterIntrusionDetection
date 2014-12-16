@@ -42,7 +42,7 @@ NsS'_current_user_retweet'
 p21
 NsS'_created_at'
 p22
-VSun Dec 14 15:07:35 +0000 2014
+VSun Dec 14 19:26:58 +0000 2014
 p23
 sS'_scopes'
 p24
@@ -69,13 +69,13 @@ sS'_now'
 p34
 NsS'_id_str'
 p35
-V544146689935032320
+V544211964986421249
 p36
 sS'_in_reply_to_status_id'
 p37
 NsS'_text'
 p38
-VAny 5 beats $39.99\u000ahttp://t.co/fFlTwkzFb9
+VTrackouts. $50\u000ahttp://t.co/fFlTwkzFb9
 p39
 sS'_retweeted'
 p40
@@ -109,10 +109,10 @@ sS'_time_zone'
 p53
 NsS'_followers_count'
 p54
-I2988
+I3020
 sS'_statuses_count'
 p55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p56
@@ -129,7 +129,7 @@ Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p61
 sS'_friends_count'
 p62
-I2489
+I2950
 sS'_favourites_count'
 p63
 I3
@@ -217,7 +217,7 @@ p100
 Vhttp://soundclick.com/dinamicobeatz
 p101
 sbasg86
-I544146689935032320
+I544211964986421249
 sbag3
 (g4
 g5
@@ -240,7 +240,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 14:07:41 +0000 2014
+VSun Dec 14 18:26:50 +0000 2014
 p107
 sg24
 Nsg25
@@ -256,11 +256,11 @@ Nsg32
 (lp108
 sg34
 Nsg35
-V544131616831205376
+V544196834227679232
 p109
 sg37
 Nsg38
-VUnlimited Licence. $99\u000ahttp://t.co/fFlTwkzFb9
+V*NEW beat 'My Own Lane'\u000ahttp://t.co/fFlTwkzFb9
 p110
 sg40
 I00
@@ -284,9 +284,9 @@ Ven
 p116
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p117
@@ -299,7 +299,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p119
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -362,7 +362,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p134
 sbasg86
-I544131616831205376
+I544196834227679232
 sbag3
 (g4
 g5
@@ -385,7 +385,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 13:07:43 +0000 2014
+VSun Dec 14 17:26:23 +0000 2014
 p140
 sg24
 Nsg25
@@ -401,11 +401,11 @@ Nsg32
 (lp141
 sg34
 Nsg35
-V544116523900874752
+V544181621868744704
 p142
 sg37
 Nsg38
-V&gt;&gt;\u000ahttp://t.co/fFlTwkzFb9
+Vhttp://t.co/fFlTwkzFb9
 p143
 sg40
 I00
@@ -429,9 +429,9 @@ Ven
 p149
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p150
@@ -444,7 +444,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p152
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -507,7 +507,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p167
 sbasg86
-I544116523900874752
+I544181621868744704
 sbag3
 (g4
 g5
@@ -530,7 +530,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 12:07:06 +0000 2014
+VSun Dec 14 17:07:43 +0000 2014
 p173
 sg24
 Nsg25
@@ -546,16 +546,16 @@ Nsg32
 (lp174
 sg34
 Nsg35
-V544101272132263936
+V544176923375849472
 p175
 sg37
 Nsg38
-VFREE beats click here !\u000ahttp://t.co/fFlTwkzFb9
+V1\u000ahttp://t.co/fFlTwkzFb9
 p176
 sg40
 I00
 sg41
-Ven
+Vund
 p177
 sg43
 g3
@@ -574,9 +574,9 @@ Ven
 p182
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p183
@@ -589,7 +589,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p185
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -652,7 +652,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p200
 sbasg86
-I544101272132263936
+I544176923375849472
 sbag3
 (g4
 g5
@@ -675,7 +675,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 11:06:45 +0000 2014
+VSun Dec 14 16:07:43 +0000 2014
 p206
 sg24
 Nsg25
@@ -691,16 +691,16 @@ Nsg32
 (lp207
 sg34
 Nsg35
-V544086084855267328
+V544161824695148545
 p208
 sg37
 Nsg38
-V5 beats $39.99\u000ahttp://t.co/fFlTwkzFb9
+V&gt;\u000ahttp://t.co/fFlTwkzFb9
 p209
 sg40
 I00
 sg41
-Ven
+Vund
 p210
 sg43
 g3
@@ -719,9 +719,9 @@ Ven
 p215
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p216
@@ -734,7 +734,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p218
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -797,7 +797,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p233
 sbasg86
-I544086084855267328
+I544161824695148545
 sbag3
 (g4
 g5
@@ -820,7 +820,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 10:06:38 +0000 2014
+VSun Dec 14 15:07:35 +0000 2014
 p239
 sg24
 Nsg25
@@ -836,11 +836,11 @@ Nsg32
 (lp240
 sg34
 Nsg35
-V544070955287728128
+V544146689935032320
 p241
 sg37
 Nsg38
-V10 FREE beats just sign up on top of the page ! ! ! ! ! !\u000ahttp://t.co/fFlTwkzFb9
+VAny 5 beats $39.99\u000ahttp://t.co/fFlTwkzFb9
 p242
 sg40
 I00
@@ -864,9 +864,9 @@ Ven
 p248
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p249
@@ -879,7 +879,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p251
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -942,7 +942,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p266
 sbasg86
-I544070955287728128
+I544146689935032320
 sbag3
 (g4
 g5
@@ -965,7 +965,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 09:06:21 +0000 2014
+VSun Dec 14 14:07:41 +0000 2014
 p272
 sg24
 Nsg25
@@ -981,11 +981,11 @@ Nsg32
 (lp273
 sg34
 Nsg35
-V544055783617724417
+V544131616831205376
 p274
 sg37
 Nsg38
-VChill Mode ! ! ! \u000ahttp://t.co/fFlTwkzFb9
+VUnlimited Licence. $99\u000ahttp://t.co/fFlTwkzFb9
 p275
 sg40
 I00
@@ -1009,9 +1009,9 @@ Ven
 p281
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p282
@@ -1024,7 +1024,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p284
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -1087,7 +1087,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p299
 sbasg86
-I544055783617724417
+I544131616831205376
 sbag3
 (g4
 g5
@@ -1110,7 +1110,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 08:05:56 +0000 2014
+VSun Dec 14 13:07:43 +0000 2014
 p305
 sg24
 Nsg25
@@ -1126,16 +1126,16 @@ Nsg32
 (lp306
 sg34
 Nsg35
-V544040579056009216
+V544116523900874752
 p307
 sg37
 Nsg38
-VLets work !\u000ahttp://t.co/fFlTwkzFb9
+V&gt;&gt;\u000ahttp://t.co/fFlTwkzFb9
 p308
 sg40
 I00
 sg41
-Ven
+Vund
 p309
 sg43
 g3
@@ -1154,9 +1154,9 @@ Ven
 p314
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p315
@@ -1169,7 +1169,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p317
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -1232,7 +1232,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p332
 sbasg86
-I544040579056009216
+I544116523900874752
 sbag3
 (g4
 g5
@@ -1255,7 +1255,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 07:05:36 +0000 2014
+VSun Dec 14 12:07:06 +0000 2014
 p338
 sg24
 Nsg25
@@ -1271,16 +1271,16 @@ Nsg32
 (lp339
 sg34
 Nsg35
-V544025395847503872
+V544101272132263936
 p340
 sg37
 Nsg38
-VStudio Mode !\u000ahttp://t.co/fFlTwkzFb9
+VFREE beats click here !\u000ahttp://t.co/fFlTwkzFb9
 p341
 sg40
 I00
 sg41
-Vhr
+Ven
 p342
 sg43
 g3
@@ -1299,9 +1299,9 @@ Ven
 p347
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p348
@@ -1314,7 +1314,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p350
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -1377,7 +1377,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p365
 sbasg86
-I544025395847503872
+I544101272132263936
 sbag3
 (g4
 g5
@@ -1400,7 +1400,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 06:06:09 +0000 2014
+VSun Dec 14 11:06:45 +0000 2014
 p371
 sg24
 Nsg25
@@ -1416,11 +1416,11 @@ Nsg32
 (lp372
 sg34
 Nsg35
-V544010433536212992
+V544086084855267328
 p373
 sg37
 Nsg38
-VGet at me !\u000ahttp://t.co/fFlTwkzFb9
+V5 beats $39.99\u000ahttp://t.co/fFlTwkzFb9
 p374
 sg40
 I00
@@ -1444,9 +1444,9 @@ Ven
 p380
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p381
@@ -1459,7 +1459,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p383
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -1522,7 +1522,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p398
 sbasg86
-I544010433536212992
+I544086084855267328
 sbag3
 (g4
 g5
@@ -1545,7 +1545,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 05:06:24 +0000 2014
+VSun Dec 14 10:06:38 +0000 2014
 p404
 sg24
 Nsg25
@@ -1561,11 +1561,11 @@ Nsg32
 (lp405
 sg34
 Nsg35
-V543995399103856640
+V544070955287728128
 p406
 sg37
 Nsg38
-V10 FREE beats just sign up !\u000ahttp://t.co/fFlTwkzFb9
+V10 FREE beats just sign up on top of the page ! ! ! ! ! !\u000ahttp://t.co/fFlTwkzFb9
 p407
 sg40
 I00
@@ -1589,9 +1589,9 @@ Ven
 p413
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p414
@@ -1604,7 +1604,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p416
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -1667,7 +1667,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p431
 sbasg86
-I543995399103856640
+I544070955287728128
 sbag3
 (g4
 g5
@@ -1690,7 +1690,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 04:05:53 +0000 2014
+VSun Dec 14 09:06:21 +0000 2014
 p437
 sg24
 Nsg25
@@ -1706,11 +1706,11 @@ Nsg32
 (lp438
 sg34
 Nsg35
-V543980166683582465
+V544055783617724417
 p439
 sg37
 Nsg38
-VHit me up with any questions ! ! !\u000ahttp://t.co/fFlTwkzFb9
+VChill Mode ! ! ! \u000ahttp://t.co/fFlTwkzFb9
 p440
 sg40
 I00
@@ -1734,9 +1734,9 @@ Ven
 p446
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p447
@@ -1749,7 +1749,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p449
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -1812,7 +1812,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p464
 sbasg86
-I543980166683582465
+I544055783617724417
 sbag3
 (g4
 g5
@@ -1835,7 +1835,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 03:04:49 +0000 2014
+VSun Dec 14 08:05:56 +0000 2014
 p470
 sg24
 Nsg25
@@ -1851,16 +1851,16 @@ Nsg32
 (lp471
 sg34
 Nsg35
-V543964801505198080
+V544040579056009216
 p472
 sg37
 Nsg38
-V&gt;&gt;&gt;&gt;&gt;\u000ahttp://t.co/fFlTwkzFb9
+VLets work !\u000ahttp://t.co/fFlTwkzFb9
 p473
 sg40
 I00
 sg41
-Vund
+Ven
 p474
 sg43
 g3
@@ -1879,9 +1879,9 @@ Ven
 p479
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p480
@@ -1894,7 +1894,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p482
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -1957,7 +1957,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p497
 sbasg86
-I543964801505198080
+I544040579056009216
 sbag3
 (g4
 g5
@@ -1980,7 +1980,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 02:04:56 +0000 2014
+VSun Dec 14 07:05:36 +0000 2014
 p503
 sg24
 Nsg25
@@ -1996,16 +1996,16 @@ Nsg32
 (lp504
 sg34
 Nsg35
-V543949730527870976
+V544025395847503872
 p505
 sg37
 Nsg38
-V3 Trackouts. $99\u000ahttp://t.co/fFlTwkzFb9
+VStudio Mode !\u000ahttp://t.co/fFlTwkzFb9
 p506
 sg40
 I00
 sg41
-Ven
+Vhr
 p507
 sg43
 g3
@@ -2024,9 +2024,9 @@ Ven
 p512
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p513
@@ -2039,7 +2039,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p515
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -2102,7 +2102,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p530
 sbasg86
-I543949730527870976
+I544025395847503872
 sbag3
 (g4
 g5
@@ -2125,7 +2125,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 01:05:01 +0000 2014
+VSun Dec 14 06:06:09 +0000 2014
 p536
 sg24
 Nsg25
@@ -2141,16 +2141,16 @@ Nsg32
 (lp537
 sg34
 Nsg35
-V543934652965486592
+V544010433536212992
 p538
 sg37
 Nsg38
-VWOW !\u000ahttp://t.co/fFlTwkzFb9
+VGet at me !\u000ahttp://t.co/fFlTwkzFb9
 p539
 sg40
 I00
 sg41
-Vund
+Ven
 p540
 sg43
 g3
@@ -2169,9 +2169,9 @@ Ven
 p545
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p546
@@ -2184,7 +2184,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p548
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -2247,7 +2247,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p563
 sbasg86
-I543934652965486592
+I544010433536212992
 sbag3
 (g4
 g5
@@ -2270,7 +2270,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSun Dec 14 00:04:48 +0000 2014
+VSun Dec 14 05:06:24 +0000 2014
 p569
 sg24
 Nsg25
@@ -2286,11 +2286,11 @@ Nsg32
 (lp570
 sg34
 Nsg35
-V543919497246425090
+V543995399103856640
 p571
 sg37
 Nsg38
-VBUy 1 Get 1 FREE&gt; $19.99\u000ahttp://t.co/fFlTwkzFb9
+V10 FREE beats just sign up !\u000ahttp://t.co/fFlTwkzFb9
 p572
 sg40
 I00
@@ -2314,9 +2314,9 @@ Ven
 p578
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p579
@@ -2329,7 +2329,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p581
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -2392,7 +2392,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p596
 sbasg86
-I543919497246425090
+I543995399103856640
 sbag3
 (g4
 g5
@@ -2415,7 +2415,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 13 23:04:30 +0000 2014
+VSun Dec 14 04:05:53 +0000 2014
 p602
 sg24
 Nsg25
@@ -2431,11 +2431,11 @@ Nsg32
 (lp603
 sg34
 Nsg35
-V543904322141319169
+V543980166683582465
 p604
 sg37
 Nsg38
-Vbeats beats beats \u000ahttp://t.co/fFlTwkzFb9
+VHit me up with any questions ! ! !\u000ahttp://t.co/fFlTwkzFb9
 p605
 sg40
 I00
@@ -2459,9 +2459,9 @@ Ven
 p611
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p612
@@ -2474,7 +2474,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p614
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -2537,7 +2537,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p629
 sbasg86
-I543904322141319169
+I543980166683582465
 sbag3
 (g4
 g5
@@ -2560,7 +2560,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 13 22:04:10 +0000 2014
+VSun Dec 14 03:04:49 +0000 2014
 p635
 sg24
 Nsg25
@@ -2576,16 +2576,16 @@ Nsg32
 (lp636
 sg34
 Nsg35
-V543889139926835200
+V543964801505198080
 p637
 sg37
 Nsg38
-V*NEW beats every two days !\u000ahttp://t.co/fFlTwkzFb9
+V&gt;&gt;&gt;&gt;&gt;\u000ahttp://t.co/fFlTwkzFb9
 p638
 sg40
 I00
 sg41
-Ven
+Vund
 p639
 sg43
 g3
@@ -2604,9 +2604,9 @@ Ven
 p644
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p645
@@ -2619,7 +2619,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p647
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -2682,7 +2682,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p662
 sbasg86
-I543889139926835200
+I543964801505198080
 sbag3
 (g4
 g5
@@ -2705,7 +2705,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 13 21:02:57 +0000 2014
+VSun Dec 14 02:04:56 +0000 2014
 p668
 sg24
 Nsg25
@@ -2721,11 +2721,11 @@ Nsg32
 (lp669
 sg34
 Nsg35
-V543873732419538945
+V543949730527870976
 p670
 sg37
 Nsg38
-V*New beat coming out today !\u000ahttp://t.co/fFlTwkzFb9
+V3 Trackouts. $99\u000ahttp://t.co/fFlTwkzFb9
 p671
 sg40
 I00
@@ -2749,9 +2749,9 @@ Ven
 p677
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p678
@@ -2764,7 +2764,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p680
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -2827,7 +2827,7 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p695
 sbasg86
-I543873732419538945
+I543949730527870976
 sbag3
 (g4
 g5
@@ -2850,7 +2850,7 @@ sg19
 Nsg20
 Nsg21
 Nsg22
-VSat Dec 13 20:02:47 +0000 2014
+VSun Dec 14 01:05:01 +0000 2014
 p701
 sg24
 Nsg25
@@ -2866,16 +2866,16 @@ Nsg32
 (lp702
 sg34
 Nsg35
-V543858594173947905
+V543934652965486592
 p703
 sg37
 Nsg38
-VBuy 1 Get 4 FREE &gt;&gt;\u000ahttp://t.co/fFlTwkzFb9
+VWOW !\u000ahttp://t.co/fFlTwkzFb9
 p704
 sg40
 I00
 sg41
-Ven
+Vund
 p705
 sg43
 g3
@@ -2894,9 +2894,9 @@ Ven
 p710
 sg53
 Nsg54
-I2988
+I3020
 sg55
-I736
+I741
 sg22
 VMon Sep 22 01:25:45 +0000 2014
 p711
@@ -2909,7 +2909,7 @@ sg60
 Vhttps://pbs.twimg.com/profile_images/535779242122825728/Kbg906kF_normal.jpeg
 p713
 sg62
-I2489
+I2950
 sg63
 I3
 sg64
@@ -2972,5 +2972,5 @@ sg100
 Vhttp://soundclick.com/dinamicobeatz
 p728
 sbasg86
-I543858594173947905
+I543934652965486592
 sbaa.

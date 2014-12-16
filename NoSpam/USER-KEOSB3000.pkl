@@ -276,9 +276,9 @@ Ven
 p132
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p133
@@ -293,7 +293,7 @@ p135
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -502,9 +502,9 @@ Ven
 p177
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p178
@@ -519,7 +519,7 @@ p180
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -740,9 +740,9 @@ Ven
 p252
 sg90
 Nsg91
-I16883
+I16866
 sg92
-I1937
+I2065
 sg72
 VTue Mar 04 03:53:22 +0000 2014
 p253
@@ -755,9 +755,9 @@ sg95
 Vhttps://pbs.twimg.com/profile_images/529836788081516544/U7dPW9T8_normal.jpeg
 p255
 sg96
-I7054
+I7051
 sg97
-I61
+I62
 sg98
 Nsg99
 Nsg100
@@ -783,7 +783,7 @@ sg108
 V2sharB
 p259
 sg110
-I18
+I19
 sg111
 Vtwitipedia
 p260
@@ -1002,9 +1002,9 @@ Ven
 p330
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p331
@@ -1019,7 +1019,7 @@ p333
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -1132,9 +1132,9 @@ Ven
 p357
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p358
@@ -1149,7 +1149,7 @@ p360
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -1271,9 +1271,9 @@ Ven
 p388
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p389
@@ -1288,7 +1288,7 @@ p391
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -1401,9 +1401,9 @@ Ven
 p415
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p416
@@ -1418,7 +1418,7 @@ p418
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -1531,9 +1531,9 @@ Ven
 p442
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p443
@@ -1548,7 +1548,7 @@ p445
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -1661,9 +1661,9 @@ Ven
 p469
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p470
@@ -1678,7 +1678,7 @@ p472
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -1800,9 +1800,9 @@ Ven
 p500
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p501
@@ -1817,7 +1817,7 @@ p503
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -1896,7 +1896,7 @@ Ntp521
 Rp522
 (dp523
 g9
-I706
+I708
 sg10
 Nsg11
 Nsg12
@@ -2099,9 +2099,9 @@ sg90
 VPacific Time (US & Canada)
 p590
 sg91
-I819558
+I819856
 sg92
-I20610
+I20620
 sg72
 VFri May 29 20:34:37 +0000 2009
 p591
@@ -2116,7 +2116,7 @@ p593
 sg96
 I100
 sg97
-I427
+I428
 sg98
 I-28800
 sg99
@@ -2143,7 +2143,7 @@ sg108
 V49ers
 p597
 sg110
-I7915
+I7917
 sg111
 VSan Francisco 49ers
 p598
@@ -2159,7 +2159,7 @@ sg116
 V000000
 p601
 sbsg143
-I728
+I729
 sg144
 V<a href="http://adobe.com" rel="nofollow">Adobe® Social</a>
 p602
@@ -2420,9 +2420,9 @@ Ven
 p682
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p683
@@ -2437,7 +2437,7 @@ p685
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -2477,7 +2477,7 @@ sg116
 V1A1B1F
 p692
 sbsg143
-I728
+I729
 sg144
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p693
@@ -2606,9 +2606,9 @@ Ven
 p720
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p721
@@ -2623,7 +2623,7 @@ p723
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -2847,9 +2847,9 @@ sg90
 VArizona
 p797
 sg91
-I240228
+I240271
 sg92
-I101129
+I101145
 sg72
 VSun Jan 29 10:26:00 +0000 2012
 p798
@@ -2862,7 +2862,7 @@ sg95
 Vhttps://pbs.twimg.com/profile_images/1789342534/278985_113292018768610_100002634376717_88217_2620863_o_normal.jpg
 p800
 sg96
-I181163
+I181181
 sg97
 I61
 sg98
@@ -2891,7 +2891,7 @@ sg108
 Vtrutherbot
 p804
 sg110
-I1718
+I1717
 sg111
 Vtrutherbot
 p805
@@ -3110,9 +3110,9 @@ Ven
 p875
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p876
@@ -3127,7 +3127,7 @@ p878
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -3324,9 +3324,9 @@ Ven
 p913
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p914
@@ -3341,7 +3341,7 @@ p916
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -3498,9 +3498,9 @@ Ven
 p946
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p947
@@ -3515,7 +3515,7 @@ p949
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -3672,9 +3672,9 @@ Ven
 p979
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p980
@@ -3689,7 +3689,7 @@ p982
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -3759,7 +3759,7 @@ Ntp996
 Rp997
 (dp998
 g9
-I2649
+I2663
 sg10
 Nsg11
 Nsg12
@@ -3913,24 +3913,24 @@ sg90
 VCasablanca
 p1056
 sg91
-I108024
+I108147
 sg92
-I1543
+I1561
 sg72
 VTue Oct 15 12:09:54 +0000 2013
 p1057
 sg93
 I00
 sg94
-VTruth Seeker, Psychonaut, Star gazer - Tripping through space and time with you all, Life is trippy. Follow if you're lost, Ask me for a follow back.
+VTruth Seeker, Psychonaut, Star gazer - Tripping through space and time. Life? Follow if you're lost, Ask me for a follow back.
 p1058
 sg95
 Vhttps://pbs.twimg.com/profile_images/543874769586634752/-llYiZCK_normal.jpeg
 p1059
 sg96
-I13191
+I13185
 sg97
-I3873
+I3872
 sg98
 I0
 sg99
@@ -3973,7 +3973,7 @@ sg116
 V000000
 p1067
 sbsg143
-I3986
+I4007
 sg144
 V<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
 p1068
@@ -4178,9 +4178,9 @@ Ven
 p1135
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p1136
@@ -4195,7 +4195,7 @@ p1138
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -4235,7 +4235,7 @@ sg116
 V1A1B1F
 p1145
 sbsg143
-I3986
+I4007
 sg144
 V<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
 p1146
@@ -4352,9 +4352,9 @@ Ven
 p1168
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p1169
@@ -4369,7 +4369,7 @@ p1171
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -4526,9 +4526,9 @@ Ven
 p1201
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p1202
@@ -4543,7 +4543,7 @@ p1204
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -4700,9 +4700,9 @@ Ven
 p1234
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p1235
@@ -4717,7 +4717,7 @@ p1237
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
@@ -4874,9 +4874,9 @@ Ven
 p1267
 sg90
 Nsg91
-I192
+I194
 sg92
-I8444
+I8443
 sg72
 VSun Dec 30 20:56:05 +0000 2012
 p1268
@@ -4891,7 +4891,7 @@ p1270
 sg96
 I602
 sg97
-I901
+I900
 sg98
 Nsg99
 Nsg100
