@@ -15,8 +15,8 @@ dim_uni_model = pickle.load(open('dementia_unigram_model.pkl'))
 control_uni_model = pickle.load(open('control_unigram_model.pkl'))
 
 
-# dim_model = pickle.load(open('dementia_model.pkl'))
-# control_model = pickle.load(open('control_model.pkl'))
+dim_model = pickle.load(open('dementia_model.pkl'))
+control_model = pickle.load(open('control_model.pkl'))
 
 
 
@@ -51,40 +51,79 @@ for x in dim_uni_model:
 # 	pp.pprint(tweets[0].AsDict())
 # 	print "\n"
 
+def pct_hapexes(tweets):
+	username, tweets = pickle.loads(tweets)
 
-# def unique_bigrams(text):
-# 	l = []
-# 	lines = helpers.getListOfUtterances(text)
-# 	for line in lines:
-# 		words = nltk.word_tokenize(line.lower())
-# 		bigrams = nltk.bigrams(words)
-# 		prob = 1
-# 		for bigram in bigrams:
-# 			l.append(bigram)
+	tweet_text = ". ".join([x.AsDict()['text'] for x in tweets])
+	tweet_text = re.sub(r'[^\x00-\x7F]+',' ', tweet_text)
+	lines = tweet_text.split(". ")
+	hapexes = 0
+	numwords = 1
+	for line in lines:
+		words = nltk.word_tokenize(line.lower())
+		numwords += len(words)
+		for word in words:
+			if word not in total_model or total_model[word] == 1:
+				hapexes += 1
+	return hapexes/float(numwords)
 
-# 	return len(set(l))/float(len(l))
+def num_hapexes(tweets):
+	username, tweets = pickle.loads(tweets)
+
+	tweet_text = ". ".join([x.AsDict()['text'] for x in tweets])
+	tweet_text = re.sub(r'[^\x00-\x7F]+',' ', tweet_text)
+	lines = tweet_text.split(". ")
+	hapexes = 0
+	numwords = 1
+	for line in lines:
+		words = nltk.word_tokenize(line.lower())
+		numwords += len(words)
+		for word in words:
+			if word not in total_model or total_model[word] == 1:
+				hapexes += 1
+	return hapexes
 
 
-# def bigram_control(text):
-# 	l = []
-# 	lines = helpers.getListOfUtterances(text)
-# 	for line in lines:
-# 		words = nltk.word_tokenize(line.lower())
-# 		bigrams = nltk.bigrams(words)
-# 		prob = 1
-# 		for bigram in bigrams:
-# 			if bigram not in control_model:
-# 				control_uni_model[bigram] = 1
-# 				if bigram[0] not in control_uni_model:
-# 					control_uni_model[bigram[0]] = 1
-# 				total_with = control_uni_model[bigram[0]]
-# 				p = control_uni_model[bigram] / float(total_with)
-# 			prob += -1 * math.log(p)
-# 		# prob *= len(words)
-# 		l.append(prob)
-# 	if l == []:
-# 		return 0
-# 	return sum(l)/float(len(l))
+def unique_bigrams(tweets):
+	l = []
+	username, tweets = pickle.loads(tweets)
+
+	tweet_text = ". ".join([x.AsDict()['text'] for x in tweets])
+	tweet_text = re.sub(r'[^\x00-\x7F]+',' ', tweet_text)
+	lines = tweet_text.split(". ")
+	for line in lines:
+		words = nltk.word_tokenize(line.lower())
+		bigrams = nltk.bigrams(words)
+		prob = 1
+		for bigram in bigrams:
+			l.append(bigram)
+
+	return len(set(l))/float(len(l))
+
+
+def bigram_control(tweets):
+	username, tweets = pickle.loads(tweets)
+	l = []
+	tweet_text = ". ".join([x.AsDict()['text'] for x in tweets])
+	tweet_text = re.sub(r'[^\x00-\x7F]+',' ', tweet_text)
+	lines = tweet_text.split(". ")
+	for line in lines:
+		words = nltk.word_tokenize(line.lower())
+		bigrams = nltk.bigrams(words)
+		prob = 1
+		for bigram in bigrams:
+			if bigram not in control_model:
+				control_uni_model[bigram] = 1
+				if bigram[0] not in control_uni_model:
+					control_uni_model[bigram[0]] = 1
+				total_with = control_uni_model[bigram[0]]
+				p = control_uni_model[bigram] / float(total_with)
+			prob += -1 * math.log(p)
+		# prob *= len(words)
+		l.append(prob)
+	if l == []:
+		return 0
+	return sum(l)/float(len(l))
 
 def unigram_nospam(tweets):
 	username, tweets = pickle.loads(tweets)
@@ -107,22 +146,25 @@ def unigram_nospam(tweets):
 		return 0
 	return sum(l)/float(len(l))
 
-# def unigram_total(text):
-# 	l = []
-# 	lines = helpers.getListOfUtterances(text)
-# 	for line in lines:
-# 		words = nltk.word_tokenize(line.lower())
-# 		prob = 1
-# 		for word in words:
-# 			if word not in total_model:
-# 				total_model[word] = 1
-# 			p = total_model[word] / (float(totalControlWords) + float(totalDimWords))
-# 			prob += -1 * math.log(p)
-# 		# prob *= len(words)
-# 		l.append(prob)
-# 	if l == []:
-# 		return 0
-# 	return sum(l)/float(len(l))
+def unigram_total(tweets):
+	username, tweets = pickle.loads(tweets)
+	l = []
+	tweet_text = ". ".join([x.AsDict()['text'] for x in tweets])
+	tweet_text = re.sub(r'[^\x00-\x7F]+',' ', tweet_text)
+	lines = tweet_text.split(". ")
+	for line in lines:
+		words = nltk.word_tokenize(line.lower())
+		prob = 1
+		for word in words:
+			if word not in total_model:
+				total_model[word] = 1
+			p = total_model[word] / (float(totalControlWords) + float(totalDimWords))
+			prob += -1 * math.log(p)
+		# prob *= len(words)
+		l.append(prob)
+	if l == []:
+		return 0
+	return sum(l)/float(len(l))
 
 
 def unigram_spam(tweets):
